@@ -12,6 +12,7 @@ build/
 
 # Model checkpoints & large files
 lora_results/
+notebooks/results/
 
 # W&B
 wandb/
@@ -43,6 +44,7 @@ Thumbs.db
 
 # Presentations
 presentation1/
+presentation2/
 
 # Reference papers
 paper/
