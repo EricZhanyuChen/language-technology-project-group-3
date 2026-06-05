@@ -1,0 +1,48 @@
+# Virtual environment
+lt_env
+lt_env/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Model checkpoints & large files
+lora_results/
+
+# W&B
+wandb/
+*.wandb
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs (regenerable)
+results/logs/*.out
+results/logs/*.err
+
+# Secrets
+.env
+credentials.json
+
+# Deprecated scripts
+scripts/run_lora.py
+
+# SLURM scripts (contain username/student number)
+scripts/slurm/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Scratch temp
+/scratch/
+
+# Presentations
+presentation1/
+
+# Reference papers
+paper/
