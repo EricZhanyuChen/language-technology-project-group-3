@@ -1,4 +1,24 @@
-import os, re, sys, json, time, argparse, warnings
+"""
+Few-shot evaluation of base models (no fine-tuning).
+
+Loads a base model with 4-bit quantization, constructs a few-shot prompt
+with fallacy definitions and examples, and evaluates on edu_test.
+
+Usage:
+    python scripts/run_fewshot.py --model google/gemma-4-31B-it
+    python scripts/run_fewshot.py --model Qwen/Qwen3.5-27B --max_samples 150
+
+Results are saved to `results/fewshot/<model_short>_results.csv`.
+"""
+
+import os
+import re
+import sys
+import json
+import time
+import argparse
+import warnings
+
 import numpy as np
 import pandas as pd
 import torch
@@ -9,6 +29,7 @@ warnings.filterwarnings("ignore")
 os.environ["TOKENIZERS_PARALLELISM"] = "false"
 
 SEED = 42
+
 LABELS = [
     "ad hominem", "ad populum", "appeal to emotion", "circular reasoning",
     "equivocation", "fallacy of credibility", "fallacy of extension",
@@ -16,6 +37,8 @@ LABELS = [
     "false dilemma", "faulty generalization", "intentional",
 ]
 
+# Fallacy definitions and examples used in the few-shot prompt.
+# Sourced from the original LOGIC dataset paper (Jin et al., 2022).
 DEFINITIONS = '''ad hominem
 Definition: This fallacy occurs when a speaker trying to argue the opposing view on a topic makes claims against the other speaker instead of the position they are maintaining.
 Example: "Bernie Saunders wouldn't make a good president because he looks like a sad muppet."
@@ -68,14 +91,24 @@ intentional
 Definition: This occurs when an argument has an element that shows "intent" of a speaker to win an argument without actual supporting evidence.
 Example: "Aliens must exist because there is no evidence that they don't exist."'''
 
-SYSTEM_PROMPT = "Classify the logical fallacy in the given text. Here are the definitions and examples:\n\n" + DEFINITIONS + "\n\nAnswer with only the fallacy name from the list above. Do not explain."
+SYSTEM_PROMPT = (
+    "Classify the logical fallacy in the given text. "
+    "Here are the definitions and examples:\n\n"
+    + DEFINITIONS
+    + "\n\nAnswer with only the fallacy name from the list above. Do not explain."
+)
+
 USER_TEMPLATE = "Text: {text}\nFallacy:"
 
 
 def load_model(model_name):
+    """Load a model with 4-bit quantization (NF4 + double quant).
+
+    Supports Gemma, Qwen, Nemotron, and other CausalLM models.
+    Falls back to AutoModel if AutoModelForCausalLM fails.
+    """
     from transformers import (
-        AutoTokenizer, AutoModelForCausalLM, AutoModel,
-        BitsAndBytesConfig, pipeline
+        AutoTokenizer, AutoModelForCausalLM, AutoModel, BitsAndBytesConfig,
     )
 
     bnb_config = BitsAndBytesConfig(
@@ -96,6 +129,8 @@ def load_model(model_name):
 
     name_lower = model_name.lower()
 
+    # All three branches currently do the same thing (CausalLM + bnb),
+    # but kept separate in case model-specific overrides are needed later.
     if "nemotron" in name_lower:
         tokenizer = AutoTokenizer.from_pretrained(model_name, trust_remote_code=True)
         model = AutoModelForCausalLM.from_pretrained(
@@ -120,26 +155,41 @@ def load_model(model_name):
     if tokenizer.pad_token is None:
         tokenizer.pad_token = tokenizer.eos_token
 
-    print(f"  done in {time.time()-t0:.1f}s", flush=True)
+    print(f"  done in {time.time() - t0:.1f}s", flush=True)
     return model, tokenizer
 
 
 def parse_output(text):
+    """Extract a fallacy label from model output.
+
+    Searches for all LABELS occurrences by word-boundary regex and returns
+    the *last* match.  This handles cases where the model first echoes the
+    prompt ("Fallacy: ...") and then gives its answer at the end.
+
+    Returns None if no label is found.
+    """
     if not text:
         return None
+
     text_lower = text.lower()
+    # Sort by length descending so longer labels match before shorter
+    # substrings (e.g. "fallacy of credibility" before "fallacy of").
     sorted_labels = sorted(LABELS, key=len, reverse=True)
     matches = []
     for label in sorted_labels:
         for m in re.finditer(r"\b" + re.escape(label) + r"\b", text_lower):
             matches.append((m.start(), m.end(), label))
+
     if not matches:
         return None
+
+    # Return the last match — most likely the model's final answer.
     matches.sort(key=lambda x: x[0])
     return matches[-1][2]
 
 
 def build_messages(system, user_text):
+    """Assemble the system + user message pair for chat-template formatting."""
     return [
         {"role": "system", "content": system},
         {"role": "user", "content": USER_TEMPLATE.format(text=user_text)},
@@ -147,17 +197,20 @@ def build_messages(system, user_text):
 
 
 def generate(model, tokenizer, messages, model_name):
-    name_lower = model_name.lower()
+    """Generate a response from the model for the given messages.
 
-    enable_thinking = False
+    Disables thinking mode for models that support it (Qwen, Nemotron)
+    so the output is a direct label without CoT reasoning.
+    """
+    name_lower = model_name.lower()
     chat_kwargs = {}
 
+    # Explicitly disable thinking/reasoning mode for models that support it.
     if "nemotron" in name_lower:
         chat_kwargs["enable_thinking"] = False
-    elif "gemma" in name_lower:
-        pass
     elif "qwen" in name_lower:
         chat_kwargs["enable_thinking"] = False
+    # Gemma4 does not need an explicit flag here.
 
     text = tokenizer.apply_chat_template(
         messages,
@@ -165,37 +218,47 @@ def generate(model, tokenizer, messages, model_name):
         add_generation_prompt=True,
         **chat_kwargs,
     )
-    inputs = tokenizer(text, return_tensors="pt", truncation=True, max_length=4096).to(model.device)
+    inputs = tokenizer(
+        text, return_tensors="pt", truncation=True, max_length=4096
+    ).to(model.device)
 
     with torch.no_grad():
         outputs = model.generate(
             **inputs,
             max_new_tokens=128,
-            temperature=0.1,
-            do_sample=False,
+            do_sample=False,              # greedy — deterministic, reproducible
             pad_token_id=tokenizer.pad_token_id,
         )
-    response = tokenizer.decode(outputs[0][inputs["input_ids"].shape[1]:], skip_special_tokens=True)
+    response = tokenizer.decode(
+        outputs[0][inputs["input_ids"].shape[1]:],
+        skip_special_tokens=True,
+    )
     return response.strip()
 
 
 def main():
-    parser = argparse.ArgumentParser()
+    parser = argparse.ArgumentParser(
+        description="Few-shot fallacy classification evaluation"
+    )
     parser.add_argument("--model", type=str, required=True, help="HF model name or path")
     parser.add_argument("--data_dir", type=str, default="logic_data")
-    parser.add_argument("--output_dir", type=str, default="fewshot_results")
-    parser.add_argument("--max_samples", type=int, default=None,
-                        help="Stratified subsample to this many (e.g. 150)")
+    parser.add_argument("--output_dir", type=str, default="results/fewshot")
+    parser.add_argument(
+        "--max_samples", type=int, default=None,
+        help="Stratified subsample to this many (e.g. 150) for faster evaluation",
+    )
     args = parser.parse_args()
 
     model_short = args.model.split("/")[-1]
     os.makedirs(args.output_dir, exist_ok=True)
 
+    # Load test data
     test_df = pd.read_csv(
         f"{args.data_dir}/edu_test.csv",
-        usecols=["source_article", "updated_label"]
+        usecols=["source_article", "updated_label"],
     )
 
+    # Optional stratified subsample for faster iteration
     if args.max_samples and args.max_samples < len(test_df):
         from sklearn.model_selection import train_test_split
         _, sampled = train_test_split(
@@ -208,11 +271,11 @@ def main():
 
     texts = test_df["source_article"].tolist()
     true_labels = test_df["updated_label"].tolist()
-
     print(f"Test samples: {len(texts)}", flush=True)
 
     model, tokenizer = load_model(args.model)
 
+    # Run inference
     predictions = []
     t_start = time.time()
 
@@ -230,6 +293,7 @@ def main():
         pbar.update(1)
     pbar.close()
 
+    # Save per-sample results
     results_df = pd.DataFrame({
         "text": texts,
         "true": true_labels,
@@ -240,6 +304,7 @@ def main():
     results_df.to_csv(out_path, index=False)
     print(f"\nResults saved to {out_path}", flush=True)
 
+    # Classification report
     valid = results_df.dropna(subset=["pred"])
     true_valid = valid["true"].tolist()
     pred_valid = valid["pred"].tolist()
@@ -254,7 +319,12 @@ def main():
 
     for label in LABELS:
         info = report.get(label, {})
-        print(f"  {label:25s}  P={info.get('precision', 0):.3f}  R={info.get('recall', 0):.3f}  F1={info.get('f1-score', 0):.3f}")
+        print(
+            f"  {label:25s}  "
+            f"P={info.get('precision', 0):.3f}  "
+            f"R={info.get('recall', 0):.3f}  "
+            f"F1={info.get('f1-score', 0):.3f}"
+        )
 
     macro_f1 = report["macro avg"]["f1-score"]
     weighted_f1 = report["weighted avg"]["f1-score"]
@@ -264,7 +334,7 @@ def main():
     print(f"  {'ACCURACY':25s}  {acc:.4f}")
 
     total_time = time.time() - t_start
-    print(f"\nTotal time: {total_time:.1f}s ({total_time/len(texts):.2f}s per sample)", flush=True)
+    print(f"\nTotal time: {total_time:.1f}s ({total_time / len(texts):.2f}s per sample)", flush=True)
 
 
 if __name__ == "__main__":

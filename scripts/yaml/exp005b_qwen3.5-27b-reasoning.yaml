@@ -1,5 +1,5 @@
 ### model
-model_name_or_path: google/gemma-4-31B-it
+model_name_or_path: Qwen/Qwen3.5-27B
 
 ### method
 stage: sft
@@ -12,16 +12,16 @@ lora_dropout: 0.05
 
 ### dataset
 dataset_dir: logic_data/augmented
-dataset: fallacy_train_cot_gemma4
+dataset: fallacy_train
 eval_dataset: fallacy_dev
-template: gemma4
+template: qwen3_5
 cutoff_len: 512
 overwrite_cache: true
 preprocessing_num_workers: 4
 enable_thinking: true
 
 ### output
-output_dir: lora_results/gemma4-31b-cot
+output_dir: lora_results/qwen3.5-27b-reasoning
 logging_steps: 10
 save_steps: 500
 save_total_limit: 2

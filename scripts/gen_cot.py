@@ -182,7 +182,12 @@ def call_api(client, messages, temperature=0.7, max_tokens=600, retries=3):
 
 
 def load_fewshot(data, label, n=2):
-    """Get n generated examples with reasoning for this label as few-shot."""
+    """Pick n generated examples with reasoning for this label as few-shot.
+
+    Draws from previously generated rows (source == 'generated') that already
+    have a validated reasoning string.  Uses a fixed seed for reproducibility.
+    Returns an empty string if no examples are available yet.
+    """
     examples = [d for d in data if d["source"] == "generated"
                 and d["updated_label"] == label
                 and d.get("reasoning")]

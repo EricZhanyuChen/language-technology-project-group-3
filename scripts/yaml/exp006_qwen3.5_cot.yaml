@@ -45,4 +45,5 @@ eval_steps: 200
 
 ### misc
 seed: 42
+full_determinism: true
 report_to: none
