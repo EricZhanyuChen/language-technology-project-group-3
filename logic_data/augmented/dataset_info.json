@@ -26,5 +26,33 @@
       "assistant_tag": "gpt",
       "system_tag": "system"
     }
+  },
+  "fallacy_train_cot_qwen3_5": {
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations"
+    },
+    "tags": {
+      "role_tag": "from",
+      "content_tag": "value",
+      "user_tag": "human",
+      "assistant_tag": "gpt",
+      "system_tag": "system"
+    },
+    "file_name": "llamafactory_cot_qwen3_5.json"
+  },
+  "fallacy_train_cot_gemma4": {
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations"
+    },
+    "tags": {
+      "role_tag": "from",
+      "content_tag": "value",
+      "user_tag": "human",
+      "assistant_tag": "gpt",
+      "system_tag": "system"
+    },
+    "file_name": "llamafactory_cot_gemma4.json"
   }
 }
