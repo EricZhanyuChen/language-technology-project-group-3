@@ -75,50 +75,74 @@ def load_model(model_name, adapter_path):
     return model, tokenizer
 
 
-def parse_label(response):
+def parse_label(response, is_cot=False):
     """Extract a fallacy label from model-generated text.
 
+    For CoT outputs, the response contains thinking/reasoning text followed by
+    the actual label. We strip the thinking part first, then match.
+
     Strategy:
-      1. Find all exact word-boundary matches across the response.
-      2. Return the *last* match — this handles CoT outputs where the label
-         appears both in thinking/reasoning (early) and as the final answer
-         (late).  The last match is most likely the model's actual prediction.
-      3. Fallback: prefix match on the first token of the response.
+      1. If is_cot, strip everything before the last double-newline (the label
+         appears after the thinking block ends).
+      2. Find all exact word-boundary matches in the label portion.
+      3. Return the *first* match (most confident).
+      4. Fallback: search the full response (last match).
 
     Returns None if no label can be identified.
     """
-    response = response.lower().strip()
+    response_lower = response.lower().strip()
 
-    # Pass 1: collect all word-boundary matches, sorted by position
+    # For CoT: try to isolate the label after thinking ends
+    search_text = response_lower
+    if is_cot:
+        # Thinking ends with </think> or </analysis> or double-newline pattern
+        # Strategy: find the last occurrence of common thinking-end markers
+        for marker in ["</think>", "</analysis>", "</channel>"]:
+            idx = response_lower.rfind(marker)
+            if idx != -1:
+                search_text = response_lower[idx + len(marker):]
+                break
+        else:
+            # No marker found — try splitting on last double-newline
+            parts = response_lower.strip().rsplit("\n\n", 1)
+            if len(parts) == 2:
+                search_text = parts[1]
+
+    # Pass 1: word-boundary match in the label portion
     sorted_labels = sorted(LABELS, key=len, reverse=True)
-    matches = []
     for lbl in sorted_labels:
-        for m in re.finditer(r"\b" + re.escape(lbl) + r"\b", response):
-            matches.append((m.start(), m.end(), lbl))
+        if re.search(r"\b" + re.escape(lbl) + r"\b", search_text):
+            return lbl
 
-    if matches:
-        matches.sort(key=lambda x: x[0])
-        return matches[-1][2]
-
-    # Pass 2: prefix match on first token
-    first = response.split()[0] if response.split() else ""
+    # Pass 2: prefix match on first token of label portion
+    first = search_text.split()[0] if search_text.split() else ""
     for lbl in LABELS:
         if lbl.startswith(first) or first.startswith(lbl):
             return lbl
 
+    # Pass 3: fallback — search full response, take last match
+    matches = []
+    for lbl in sorted_labels:
+        for m in re.finditer(r"\b" + re.escape(lbl) + r"\b", response_lower):
+            matches.append((m.start(), m.end(), lbl))
+    if matches:
+        matches.sort(key=lambda x: x[0])
+        return matches[-1][2]
+
     return None
 
 
-def evaluate(model, tokenizer, df, max_new=512, max_length=512):
+def evaluate(model, tokenizer, df, max_new=512, max_length=512, enable_thinking=False, output_path=None):
     """Run inference on every row in df and collect predictions.
 
-    For CoT-trained models the output typically looks like:
-        <thinking tokens> ... reasoning ... <end thinking>
-        <actual label>
-    `skip_special_tokens=True` strips the thinking tags but keeps the
-    reasoning text, so `parse_label` searches the full decoded output.
+    Each result is written immediately to a JSONL file so partial results
+    are available even if the job is cancelled.
     """
-    pred_labels, true_labels = [], []
+    import json as _json
+
+    pred_labels, true_labels, responses = [], [], []
+    jsonl_path = output_path.replace(".csv", ".jsonl") if output_path else None
+
     for i, (_, row) in enumerate(tqdm(df.iterrows(), total=len(df), desc="Eval")):
         messages = [
             {"role": "system", "content": SYSTEM},
@@ -126,7 +150,7 @@ def evaluate(model, tokenizer, df, max_new=512, max_length=512):
         ]
         prompt = tokenizer.apply_chat_template(
             messages, tokenize=False, add_generation_prompt=True,
-            enable_thinking=False,  # disable thinking for direct label output
+            enable_thinking=enable_thinking,
         )
         inputs = tokenizer(
             prompt, return_tensors="pt", truncation=True, max_length=max_length
@@ -136,27 +160,34 @@ def evaluate(model, tokenizer, df, max_new=512, max_length=512):
             outputs = model.generate(
                 **inputs,
                 max_new_tokens=max_new,
-                do_sample=False,           # greedy decoding — deterministic
+                do_sample=False,
                 pad_token_id=tokenizer.pad_token_id,
             )
 
-        # Decode only the newly generated tokens (strip prompt)
         response = tokenizer.decode(
             outputs[0][inputs["input_ids"].shape[1]:],
             skip_special_tokens=True,
         )
 
-        pred = parse_label(response)
+        pred = parse_label(response, is_cot=enable_thinking)
         pred_labels.append(pred)
         true_labels.append(row["updated_label"])
+        responses.append(response)
 
-        # Print first 5 samples for debugging
-        if i < 5:
-            print(f"\n  [DEBUG {i}] true={row['updated_label']}", flush=True)
-            print(f"  [DEBUG {i}] response ({len(response)} chars): {response[:300]}", flush=True)
-            print(f"  [DEBUG {i}] parsed: {pred}", flush=True)
+        # Write each result immediately to JSONL
+        if jsonl_path:
+            with open(jsonl_path, "a") as f:
+                _json.dump({
+                    "idx": i,
+                    "text": row["source_article"],
+                    "true": row["updated_label"],
+                    "pred": pred,
+                    "response_len": len(response),
+                    "response": response,
+                }, f, ensure_ascii=False)
+                f.write("\n")
 
-    return pred_labels, true_labels
+    return pred_labels, true_labels, responses
 
 
 def print_report(true_labels, pred_labels):
@@ -190,37 +221,67 @@ def main():
     parser.add_argument("--adapter_path", type=str, required=True, help="Path to LoRA adapter")
     parser.add_argument("--data_dir", type=str, default="logic_data")
     parser.add_argument("--split", type=str, default="test", choices=["test", "dev", "train"])
+    parser.add_argument("--dataset", type=str, default="edu", choices=["edu", "climate"],
+                        help="Dataset to evaluate on (edu or climate)")
     parser.add_argument("--output_dir", type=str, default="results/lora")
-    parser.add_argument("--max_new", type=int, default=512,
+    parser.add_argument("--max_new", type=int, default=1024,
                         help="Max tokens to generate (must cover CoT + label)")
-    parser.add_argument("--max_length", type=int, default=512,
+    parser.add_argument("--max_length", type=int, default=1024,
                         help="Max input length (prompt) in tokens")
+    parser.add_argument("--enable_thinking", action="store_true",
+                        help="Enable thinking tokens for CoT-trained models")
     args = parser.parse_args()
 
     model, tokenizer = load_model(args.model, args.adapter_path)
 
-    data_path = f"{args.data_dir}/edu_{args.split}.csv"
-    df = pd.read_csv(data_path, usecols=["source_article", "updated_label"])
-    print(f"Eval split: {args.split} ({len(df)} samples)", flush=True)
-
-    pred_labels, true_labels = evaluate(
-        model, tokenizer, df, args.max_new, args.max_length
-    )
+    if args.dataset == "climate":
+        data_path = f"{args.data_dir}/climate_{args.split}.csv"
+        df = pd.read_csv(data_path, usecols=["source_article", "logical_fallacies"])
+        df = df.rename(columns={"logical_fallacies": "updated_label"})
+    else:
+        data_path = f"{args.data_dir}/edu_{args.split}.csv"
+        df = pd.read_csv(data_path, usecols=["source_article", "updated_label"])
+    print(f"Eval dataset={args.dataset} split={args.split} ({len(df)} samples)", flush=True)
 
     # Save per-sample results
     adapter_name = args.adapter_path.rstrip("/").split("/")[-1]
+    results_path = f"{args.output_dir}/{adapter_name}_{args.dataset}_{args.split}_results.csv"
+    pred_labels, true_labels, responses = evaluate(
+        model, tokenizer, df, args.max_new, args.max_length,
+        enable_thinking=args.enable_thinking,
+        output_path=results_path,
+    )
+
     results_df = pd.DataFrame({
         "text": df["source_article"],
         "true": true_labels,
         "pred": pred_labels,
         "correct": [p == t for p, t in zip(pred_labels, true_labels)],
+        "response": responses,
     })
     os.makedirs(args.output_dir, exist_ok=True)
-    results_path = f"{args.output_dir}/{adapter_name}_{args.split}_results.csv"
     results_df.to_csv(results_path, index=False)
 
-    print_report(true_labels, pred_labels)
+    report = print_report(true_labels, pred_labels)
     print(f"\nResults saved to {results_path}")
+
+    # Append to summary file
+    summary_path = f"{args.output_dir}/summary.csv"
+    summary_row = pd.DataFrame([{
+        "adapter": adapter_name,
+        "dataset": args.dataset,
+        "split": args.split,
+        "macro_f1": report["macro avg"]["f1-score"],
+        "accuracy": report["accuracy"],
+        "n_samples": len(true_labels),
+        "n_null": sum(1 for p in pred_labels if p is None),
+        "results_file": results_path,
+    }])
+    if os.path.exists(summary_path):
+        existing = pd.read_csv(summary_path)
+        summary_row = pd.concat([existing, summary_row], ignore_index=True)
+    summary_row.to_csv(summary_path, index=False)
+    print(f"Summary appended to {summary_path}")
 
 
 if __name__ == "__main__":

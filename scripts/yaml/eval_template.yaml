@@ -1,0 +1,31 @@
+### model
+model_name_or_path: {model}
+adapter_name_or_path: {adapter_path}
+
+### method
+stage: sft
+do_train: false
+do_predict: true
+predict_with_generate: true
+finetuning_type: lora
+
+### dataset
+dataset_dir: logic_data/augmented
+dataset: fallacy_test
+template: {template}
+cutoff_len: 1024
+overwrite_cache: true
+preprocessing_num_workers: 4
+enable_thinking: false
+
+### output
+output_dir: {adapter_path}
+logging_steps: 10
+
+### predict
+per_device_eval_batch_size: 4
+predict_with_generate: true
+
+### misc
+seed: 42
+report_to: none

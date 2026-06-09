@@ -8,22 +8,23 @@ finetuning_type: lora
 lora_rank: 16
 lora_alpha: 32
 lora_target: all
-lora_dropout: 0.05
+lora_dropout: 0.1
 
 ### dataset
 dataset_dir: logic_data/augmented
 dataset: fallacy_train_cot_qwen3_5
 eval_dataset: fallacy_dev
 template: qwen3_5
-cutoff_len: 512
+cutoff_len: 1024
 overwrite_cache: true
 preprocessing_num_workers: 4
 enable_thinking: true
 
 ### output
 output_dir: lora_results/qwen3.5-27b-cot
+overwrite_output_dir: true
 logging_steps: 10
-save_steps: 500
+save_steps: 200
 save_total_limit: 2
 
 ### train
@@ -42,6 +43,10 @@ gradient_checkpointing: true
 val_size: 0
 eval_strategy: steps
 eval_steps: 200
+load_best_model_at_end: true
+early_stopping_steps: 600
+metric_for_best_model: eval_loss
+greater_is_better: false
 
 ### misc
 seed: 42

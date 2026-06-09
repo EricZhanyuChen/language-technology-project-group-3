@@ -2,6 +2,13 @@
 lt_env
 lt_env/
 
+# Project memory & config
+AGENTS.md
+memory/
+
+# Scratch temp
+trainer_output/
+
 # Python
 __pycache__/
 *.pyc

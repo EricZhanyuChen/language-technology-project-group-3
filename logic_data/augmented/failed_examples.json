@@ -1,0 +1,14 @@
+[
+  {
+    "source_article": "According to the Supreme Court, we have a right to abortion. Therefore, it is right to have an abortion.",
+    "raw_model_output": "[DUITS]\nVolgens het Hooggerechtshof hebben wij recht op abortus. Daarom is het juist om een abortus te ondergaan.\n\n[CHINEES]\n根据最高法院，我们有权堕胎。因此，堕胎是正确的。"
+  },
+  {
+    "source_article": "My first time walking the dog went terribly, so my dog is a terrible one.",
+    "raw_model_output": "[DUITS]\nMijn eerste keer dat ik de hond uitliet, verliep verschrikkelijk, dus mijn hond is een verschrikkelijke.\n\n[CHINEES]\n我第一次遛狗的经历很糟糕，所以我的狗是一只糟糕的狗。"
+  },
+  {
+    "source_article": "I like my steak rare. But I don’t care for aardvark steak, even though it’s the rarest steak in the world.",
+    "raw_model_output": ""
+  }
+]

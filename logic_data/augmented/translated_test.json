@@ -1,0 +1,1802 @@
+[
+  {
+    "updated_label": "fallacy of extension",
+    "source_article": "People who drive big cars probably hate the environment.",
+    "source_article_nl": "Mensen die grote auto's rijden, haten waarschijnlijk het milieu.",
+    "source_article_zh": "开大车的人可能讨厌环境。"
+  },
+  {
+    "updated_label": "faulty generalization",
+    "source_article": "White men can't jump. No, really, they can't!",
+    "source_article_nl": "Witte mannen kunnen niet springen. Nee, echt, ze kunnen het niet!",
+    "source_article_zh": "白人不能跳。不，真的，他们不能！"
+  },
+  {
+    "updated_label": "fallacy of logic",
+    "source_article": "'Cotton and grain crops were lower this year than last. So, people must be stealing them.\"\nThis is an example of what kind of logical fallacy?",
+    "source_article_nl": "'Katoen- en graangewassen waren dit jaar lager dan vorig jaar. Dus moeten mensen ze stelen.' Dit is een voorbeeld van wat voor logische denkfout?",
+    "source_article_zh": "'棉花和谷物收成今年比去年低。所以，一定是人们在偷它们。' 这属于哪种逻辑谬误的例子？"
+  },
+  {
+    "updated_label": "false causality",
+    "source_article": "\"Why are you hitting your computer!?\"\n\"The last time my wifi was weak, I hit my computer and it got better.\" What is this?",
+    "source_article_nl": "\"Waarom sla je je computer!?\"\n\"De vorige keer dat mijn wifi slecht was, sloeg ik mijn computer en het werd beter.\" Wat is dit?",
+    "source_article_zh": "\"你为什么打你的电脑！？\"\n\"上次我的WiFi信号弱的时候，我打了我的电脑，然后它就好了。\" 这是什么？"
+  },
+  {
+    "updated_label": "faulty generalization",
+    "source_article": "All students are good and all clowns are bad.",
+    "source_article_nl": "Alle studenten zijn goed en alle clowns zijn slecht.",
+    "source_article_zh": "所有学生都是好的，所有小丑都是坏的。"
+  },
+  {
+    "updated_label": "fallacy of extension",
+    "source_article": "\"People who don't support the proposed state minimum wage increase must hate the poor so much.\"\n\nWhich logical fallacy is used in the statement above?",
+    "source_article_nl": "\"Mensen die de voorgestelde verhoging van het minimumloon in de staat niet steunen, moeten de armen wel erg haten.\"",
+    "source_article_zh": "\"不支持该州提出的最低工资增长提案的人们一定非常憎恨穷人。\""
+  },
+  {
+    "updated_label": "fallacy of extension",
+    "source_article": "Charlie: Illegal posting and sharing of songs online is crippling the music industry.\nBob: You couldn't be more wrong; the music industry is doing just fine! I can't believe you think the government should be allowed to regulate what I share with my friends. No one wants a world where I can't loan a book to my girlfriend, let my roommate borrow my iPod, or share a funny meme with my blog followers.",
+    "source_article_nl": "Charlie: Illegaal online plaatsen en delen van liedjes verlamt de muziekindustrie.\nBob: Je hebt nog nooit zo ongelijk gehad; de muziekindustrie doet het prima! Ik kan niet geloven dat jij denkt dat de overheid mag bepalen wat ik met mijn vrienden deel. Niemand wil een wereld waarin ik geen boek aan mijn vriendin mag lenen, mijn huisgenoot mijn iPod mag lenen, of een grappige meme met mijn blogvolgers mag delen.",
+    "source_article_zh": "Charlie: 非法在线发布和分享歌曲正在严重损害音乐产业。\nBob: 你大错特错了；音乐产业运行得很好！我简直不敢相信你认为政府应该被允许管制我和朋友分享的内容。没人想要一个我不能借书给女朋友、不让室友借用我的iPod、或者不能和我的博客粉丝分享搞笑表情包的世界。"
+  },
+  {
+    "updated_label": "faulty generalization",
+    "source_article": "Paige wants to play a guitar solo on our next recording. Her father is a horrible musician, though, so I doubt that Paula's any good either.",
+    "source_article_nl": "Paige wil een gitaarsolo spelen op onze volgende opname. Haar vader is echter een vreselijke muzikant, dus ik betwijfel of Paula ook maar enigszins goed is.",
+    "source_article_zh": "佩奇想在我们下一张唱片中演奏吉他独奏。不过她父亲是个糟糕的音乐家，所以我怀疑保拉也好不到哪去。"
+  },
+  {
+    "updated_label": "fallacy of credibility",
+    "source_article": "My sister-in-law, who is a teacher, said that this school is not somewhere that I would want to send my children.",
+    "source_article_nl": "Mijn schoonzus, die lerares is, zei dat deze school niet een plek is waar ik mijn kinderen naartoe zou willen sturen.",
+    "source_article_zh": "我的嫂子，她是老师，说这所学校不是我想送孩子去的地方。"
+  },
+  {
+    "updated_label": "circular reasoning",
+    "source_article": "something that kills is deadly",
+    "source_article_nl": "iets dat doodt is dodelijk",
+    "source_article_zh": "殺人的東西是致命的"
+  },
+  {
+    "updated_label": "false causality",
+    "source_article": "“The rooster crows always before the sun rises, therefore the crowing rooster causes the sun to rise.”",
+    "source_article_nl": "De haan kraait altijd voordat de zon opkomt, dus de kraaiende haan veroorzaakt dat de zon opkomt.",
+    "source_article_zh": "公鸡总是在太阳升起之前啼叫，因此啼叫的公鸡导致太阳升起。"
+  },
+  {
+    "updated_label": "faulty generalization",
+    "source_article": "1 = a number; 2 = a number; therefore 1 = 2.",
+    "source_article_nl": "1 = een getal; 2 = een getal; dus 1 = 2.",
+    "source_article_zh": "1 = 一个数字；2 = 一个数字；因此 1 = 2。"
+  },
+  {
+    "updated_label": "ad hominem",
+    "source_article": "“against the man;” attacking the individual rather than their position.",
+    "source_article_nl": "\"tegen de man;\" de persoon aanvallen in plaats van diens standpunt.",
+    "source_article_zh": "“针对人；”攻击个人而非其立场。"
+  },
+  {
+    "updated_label": "ad populum",
+    "source_article": "Makes the claim that EVERYONE is using this product, and you should, too.",
+    "source_article_nl": "Beweert dat IEDEREEN dit product gebruikt, en jij zou dat ook moeten doen.",
+    "source_article_zh": "声称每个人都在使用这个产品，你也应该使用。"
+  },
+  {
+    "updated_label": "faulty generalization",
+    "source_article": "I can't trust the mayor or the governor. All politicians must be liars.",
+    "source_article_nl": "Ik kan de burgemeester of de gouverneur niet vertrouwen. Alle politici moeten leugenaars zijn.",
+    "source_article_zh": "我不能相信市长或州长。所有政客肯定都是骗子。"
+  },
+  {
+    "updated_label": "intentional",
+    "source_article": "\"I'm French and I don't like cheese.\"\n\"All French like cheese.\"\n\"I don't.\"\n\"Then you must not really be French.\"",
+    "source_article_nl": "\"Ik ben Frans en ik hou niet van kaas.\"\n\"Alle Fransen houden van kaas.\"\n\"Ik niet.\"\n\"Dan ben je dus niet echt Frans.\"",
+    "source_article_zh": "\"我是法国人，我不喜欢奶酪。\"\n\"所有法国人都喜欢奶酪。\"\n\"我不喜欢。\"\n\"那你肯定不是真正的法国人。\""
+  },
+  {
+    "updated_label": "ad populum",
+    "source_article": "Everyone is going to get the new smart phone when it comes out this weekend. Why aren’t you?",
+    "source_article_nl": "Iedereen gaat de nieuwe smartphone halen wanneer hij dit weekend uitkomt. Waarom jij niet?",
+    "source_article_zh": "这个周末新智能手机一上市，每个人都会去买。你为什么不呢？"
+  },
+  {
+    "updated_label": "fallacy of logic",
+    "source_article": "Encampment is like basic training. It’s CAP’s equivalent to Boot Camp.",
+    "source_article_nl": "Encampment is als basistraining. Het is CAP's equivalent van Boot Camp.",
+    "source_article_zh": "Encampment就像基础训练。它是CAP的Boot Camp等价物。"
+  },
+  {
+    "updated_label": "ad hominem",
+    "source_article": "We cannot listen to John’s opinion on global warming because he is a tree hugger.",
+    "source_article_nl": "We kunnen niet luisteren naar Johns mening over de opwarming van de aarde omdat hij een boomknuffelaar is.",
+    "source_article_zh": "我们不能听取约翰关于全球变暖的意见，因为他是一个环保极端分子。"
+  },
+  {
+    "updated_label": "intentional",
+    "source_article": "Kerry’s plan will raise taxes by at least $900 billion his first hundred days.",
+    "source_article_nl": "Kerry's plan zal de belastingen met ten minste 900 miljard dollar verhogen in zijn eerste honderd dagen.",
+    "source_article_zh": "Kerry的计划将在他上任的头一百天内增税至少9000亿美元。"
+  },
+  {
+    "updated_label": "circular reasoning",
+    "source_article": "Repeating the same thing as if you’re proving something",
+    "source_article_nl": "Hetzelfde herhalen alsof je iets bewijst.",
+    "source_article_zh": "重复同样的话，好像你在证明什么。"
+  },
+  {
+    "updated_label": "ad populum",
+    "source_article": "\"I'm gonna get an iPhone because everybody else has an iPhone and they're cool.\"",
+    "source_article_nl": "\"Ik ga een iPhone kopen omdat iedereen een iPhone heeft en ze cool zijn.\"",
+    "source_article_zh": "“我要买一部iPhone，因为其他人都有iPhone，而且它们很酷。”"
+  },
+  {
+    "updated_label": "fallacy of relevance",
+    "source_article": "\"Russia has a terrible human rights record.\"\n\"Well, the United States has done plenty of bad things, but we aren't a bad country, so Russia isn't, either.\" -the President when confronted about Russia's human rights abuses.",
+    "source_article_nl": "\"Rusland heeft een verschrikkelijke mensenrechtenrecord.\"\n\"Nou, de Verenigde Staten hebben veel slechte dingen gedaan, maar wij zijn geen slecht land, dus Rusland is dat ook niet.\" -de president toen hij werd geconfronteerd met de mensenrechtenschendingen van Rusland.",
+    "source_article_zh": "\"俄罗斯的人权记录非常糟糕。\"\n\"嗯，美国做了很多坏事，但我们不是一个坏国家，所以俄罗斯也不是。\" -总统在被问及俄罗斯的人权侵犯时所说。"
+  },
+  {
+    "updated_label": "circular reasoning",
+    "source_article": "\"The Philippines is in poverty because of poor people.\"",
+    "source_article_nl": "De Filipijnen is in armoede vanwege arme mensen.",
+    "source_article_zh": "菲律宾因为穷人而贫困。"
+  },
+  {
+    "updated_label": "fallacy of extension",
+    "source_article": "Thomas: \"Dating apps are an effective way to meet potential dates. With people's busy work schedules nowadays, technology can help you make connections.\"\nNina: \"Dating apps are dangerous! Most people are catfished, and guys usually pretend to be so much better than they really are online. If we're so busy, we won't have time for any of that, anyway.\"\nWhat fallacy is Nina leaning toward?",
+    "source_article_nl": "Thomas: \"Datingsapps zijn een effectieve manier om potentiële dates te ontmoeten. Met de drukke werkschema's van mensen tegenwoordig kan technologie je helpen om verbindingen te maken.\"\nNina: \"Datingsapps zijn gevaarlijk! De meeste mensen worden gecatfished, en mannen doen zich online meestal veel beter voor dan ze in werkelijkheid zijn. Als we zo druk zijn, hebben we daar toch geen tijd voor.\"\nOp welke drogreden stuurt Nina aan?",
+    "source_article_zh": "Thomas：“约会应用程序是结识潜在约会对象的有效方式。如今人们的工作日程繁忙，科技可以帮助你建立联系。”\nNina：“约会应用程序很危险！大多数人都会遭遇网络诈骗，男生在网上通常把自己伪装得比实际好得多。如果我们那么忙，反正也没时间搞这些。”\nNina倾向于哪一种逻辑谬误？"
+  },
+  {
+    "updated_label": "fallacy of relevance",
+    "source_article": "\"My opponent claims that water pollution is endangering our city waters. But have you thought about all of the air pollution in China? Where they have to wear masks sometimes in the city? That's what we really need to worry about.\"",
+    "source_article_nl": "Mijn tegenstander beweert dat watervervuiling onze stedelijke wateren bedreigt. Maar heb je nagedacht over al die luchtvervuiling in China? Waar ze soms maskers moeten dragen in de stad? Daar moeten we ons echt zorgen over maken.",
+    "source_article_zh": "我的对手声称水污染正在危及我们城市的水域。但是你有没有想过中国的空气污染？在中国城市里有时人们不得不戴口罩？那才是我们真正需要担心的。"
+  },
+  {
+    "updated_label": "ad hominem",
+    "source_article": "\"You're a Westener and you're an idiot.\"",
+    "source_article_nl": "Je bent een Westener en je bent een idioot.",
+    "source_article_zh": "你是一个Westener，你是一个白痴。"
+  },
+  {
+    "updated_label": "ad hominem",
+    "source_article": "Researchers are frauds who don’t earn their salaries",
+    "source_article_nl": "Onderzoekers zijn oplichters die hun salaris niet verdienen",
+    "source_article_zh": "研究人员是骗子，他们不赚取自己的薪水"
+  },
+  {
+    "updated_label": "faulty generalization",
+    "source_article": "The child did not do his chores so therefore all children are lazy.",
+    "source_article_nl": "Het kind deed zijn klusjes niet, dus daarom zijn alle kinderen lui.",
+    "source_article_zh": "这个孩子没有做他的家务，所以因此所有孩子都很懒惰。"
+  },
+  {
+    "updated_label": "ad hominem",
+    "source_article": "Having come from the same political party, he is sure to communicate biased and untrue claims about his party-mates",
+    "source_article_nl": "Omdat hij uit dezelfde politieke partij komt, zal hij zeker bevooroordeelde en onware beweringen over zijn partijgenoten verspreiden.",
+    "source_article_zh": "因为来自同一个政党，他肯定会传播关于其党内同僚的有偏见且不真实的言论。"
+  },
+  {
+    "updated_label": "faulty generalization",
+    "source_article": "I would never buy a Buick. My father owned two of them and both of them had frequent transmission problems. Buicks obviously break down all the time.",
+    "source_article_nl": "Ik zou nooit een Buick kopen. Mijn vader had er twee en beide hadden regelmatig transmissieproblemen. Buicks gaan dus duidelijk altijd kapot.",
+    "source_article_zh": "我永远不会买别克。我父亲拥有过两辆别克，它们都经常出现变速箱问题。别克显然总是出故障。"
+  },
+  {
+    "updated_label": "circular reasoning",
+    "source_article": "“We must accept the traditions of the men of old time who affirm themselves to be the offspring of the gods - that is what they say - and they must surely have known their own ancestors. How can we doubt the word of the children of the gods?” - Plato, Timaeus",
+    "source_article_nl": "“Wij moeten de tradities aanvaarden van de oude mannen die beweren dat zij nakomelingen zijn van de goden – dat zeggen zij – en zij moeten toch hun eigen voorouders gekend hebben. Hoe kunnen wij twijfelen aan het woord van de kinderen van de goden?” – Plato, Timaeus",
+    "source_article_zh": "“我们必须接受古代那些自称是神的后裔的人们所传承下来的传统——他们是那样说的——而且他们肯定认识自己的祖先。我们怎能怀疑神之子的话语呢？” ——柏拉图，《蒂迈欧篇》"
+  },
+  {
+    "updated_label": "circular reasoning",
+    "source_article": "Has your psychology department stopped teaching that ineffective approach to therapy yet?",
+    "source_article_nl": "Is jullie psychologieafdeling al gestopt met het onderwijzen van die ineffectieve therapeutische benadering?",
+    "source_article_zh": "你们心理学系是否已经停止教授那种无效的治疗方法了？"
+  },
+  {
+    "updated_label": "fallacy of credibility",
+    "source_article": "Bill: Hey, did you hear we have a new operating system out now?  It is better than anything else out there because we just released it!\nSteve: What’s it called?\nBill: Windows Vista!\nSteve: Sounds wonderful!  I can’t wait until all of your users install it on all their computers!\n",
+    "source_article_nl": "Bill: Hé, heb je gehoord dat we nu een nieuw besturingssysteem hebben? Het is beter dan al het andere omdat we het net hebben uitgebracht!\nSteve: Hoe heet het?\nBill: Windows Vista!\nSteve: Klinkt geweldig! Ik kan niet wachten tot al je gebruikers het op al hun computers installeren!",
+    "source_article_zh": "比尔：嘿，你听说了吗？我们现在推出了一个新的操作系统。它比市面上任何其他系统都好，因为我们刚刚发布了它！\n史蒂夫：它叫什么名字？\n比尔：Windows Vista！\n史蒂夫：听起来太棒了！我迫不及待想看到你所有的用户把它安装在他们所有的电脑上！"
+  },
+  {
+    "updated_label": "appeal to emotion",
+    "source_article": "It takes faith to believe in God just like it takes faith to believe in the Easter Bunny -- but at least the Easter Bunny is based on a creature that actually exists!",
+    "source_article_nl": "Het vergt geloof om in God te geloven, net zoals het geloof vergt om in de Paashaas te geloven -- maar tenminste is de Paashaas gebaseerd op een wezen dat daadwerkelijk bestaat!",
+    "source_article_zh": "相信上帝需要信仰，就像相信复活节兔子需要信仰一样——但至少复活节兔子是基于一个真实存在的生物！"
+  },
+  {
+    "updated_label": "fallacy of relevance",
+    "source_article": "When asked about his comments Trump made on his tape with Billy Bush, Trump responded, “It’s locker room talk, and it’s one of those things. I will knock the hell out of ISIS. We’re going to defeat ISIS. ISIS happened a number of years ago in a vacuum that was left because of bad judgment. And I will tell you, I will take care of ISIS.”",
+    "source_article_nl": "Toen hem gevraagd werd naar zijn opmerkingen op de tape met Billy Bush, antwoordde Trump: \"Het is kleedkamergeroddel, en het is zoiets. Ik zal ISIS de tering in slaan. We gaan ISIS verslaan. ISIS ontstond een aantal jaren geleden in een vacuüm dat overbleef door slecht beoordelingsvermogen. En ik zeg je, ik zal voor ISIS zorgen.\"",
+    "source_article_zh": "当被问及他在与比利·布什的录音带上的言论时，特朗普回应道：“这是更衣室闲聊，就是这样一回事。我会把ISIS打得屁滚尿流。我们将击败ISIS。ISIS是多年前在一个因判断失误而留下的真空中出现的。我告诉你，我会收拾ISIS。”"
+  },
+  {
+    "updated_label": "false causality",
+    "source_article": "\"Truly helps cramming for a test: my psychological test is crowded and I have an A.\"",
+    "source_article_nl": "Echt helpt bij het stampen voor een toets: mijn psychologische toets is druk en ik heb een A.",
+    "source_article_zh": "真正帮助临时抱佛脚：我的心理测验很拥挤，我得了A。"
+  },
+  {
+    "updated_label": "ad populum",
+    "source_article": "assumes that if many people act or believe a certain way, it must be the right way",
+    "source_article_nl": "gaat ervan uit dat als veel mensen op een bepaalde manier handelen of geloven, het de juiste manier moet zijn",
+    "source_article_zh": "假设如果许多人以某种方式行动或相信，那一定是正确的方式"
+  },
+  {
+    "updated_label": "faulty generalization",
+    "source_article": "We should go inside; the last time the clouds were that dark, there was a tornado.",
+    "source_article_nl": "We moeten naar binnen gaan; de laatste keer dat de wolken zo donker waren, was er een tornado.",
+    "source_article_zh": "我们应该进去；上次云那么黑的时候，有龙卷风。"
+  },
+  {
+    "updated_label": "ad populum",
+    "source_article": "Everyone is/is not doing it! It must/must not be a good thing!",
+    "source_article_nl": "Iedereen doet/doet het niet! Het moet/moet geen goede zaak zijn!",
+    "source_article_zh": "每个人都在做/都没有做这件事！它一定/一定不是一件好事！"
+  },
+  {
+    "updated_label": "fallacy of credibility",
+    "source_article": "An ad claims that 3 out of 4 real estate agents reccommend moving to Sunnyville, California.",
+    "source_article_nl": "Een advertentie beweert dat 3 op de 4 makelaars aanbevelen om naar Sunnyville, Californië te verhuizen.",
+    "source_article_zh": "一则广告声称，每4名房地产经纪人中有3名推荐搬到加利福尼亚州的桑尼维尔。"
+  },
+  {
+    "updated_label": "intentional",
+    "source_article": "Have you stopped cheating on tests?  To answer yes means you cheated before. To answer no means you continue to cheat.",
+    "source_article_nl": "Ben je gestopt met valsspelen op toetsen? Ja antwoorden betekent dat je eerder hebt valsgespeeld. Nee antwoorden betekent dat je doorgaat met valsspelen.",
+    "source_article_zh": "你停止在考试中作弊了吗？回答“是”意味着你以前作弊过。回答“不”意味着你继续作弊。"
+  },
+  {
+    "updated_label": "ad hominem",
+    "source_article": "\"You're too ugly to be class president!\"",
+    "source_article_nl": "Je bent te lelijk om klassevoorzitter te zijn!",
+    "source_article_zh": "你太丑了，不能当班长！"
+  },
+  {
+    "updated_label": "intentional",
+    "source_article": "Why should merely cracking down on terrorism help to stop it, when that method hasn't worked in any other country?",
+    "source_article_nl": "Waarom zou simpelweg het hard aanpakken van terrorisme helpen om het te stoppen, terwijl die methode in geen enkel ander land heeft gewerkt?",
+    "source_article_zh": "为什么仅仅打击恐怖主义就能帮助制止它，而这种方法在其他任何国家都没有奏效？"
+  },
+  {
+    "updated_label": "ad populum",
+    "source_article": "40 million people can't be wrong! Buy the new Iphone XIV today!",
+    "source_article_nl": "40 miljoen mensen kunnen zich niet vergissen! Koop vandaag nog de nieuwe Iphone XIV!",
+    "source_article_zh": "四千万人不可能错！今天就来买新款Iphone XIV吧！"
+  },
+  {
+    "updated_label": "appeal to emotion",
+    "source_article": "If you love your family, you'll buy this new stealth\nsecurity system.",
+    "source_article_nl": "Als je van je familie houdt, koop je dit nieuwe stealth-beveiligingssysteem.",
+    "source_article_zh": "如果你爱你的家人，你就会买这个新的stealth安全系统。"
+  },
+  {
+    "updated_label": "intentional",
+    "source_article": "How many school shootings should we tolerate before we change the gun laws?",
+    "source_article_nl": "Hoeveel schietpartijen op scholen moeten we tolereren voordat we de wapenwetten veranderen?",
+    "source_article_zh": "我们应该容忍多少次校园枪击事件，才能修改枪支法律？"
+  },
+  {
+    "updated_label": "ad hominem",
+    "source_article": "President Trump said that he was proud of the children who participated in this year's Special Olympics. Those kids are a bunch of losers.",
+    "source_article_nl": "President Trump zei dat hij trots was op de kinderen die dit jaar aan de Special Olympics deelnamen. Die kinderen zijn een stelletje verliezers.",
+    "source_article_zh": "特朗普总统说，他对参加今年特殊奥运会的孩子们感到自豪。那些孩子是一群失败者。"
+  },
+  {
+    "updated_label": "fallacy of credibility",
+    "source_article": "Our competitors use unhealthy sugar substitutes and artificial sweeteners. But Rev-Up Energy Drink contains one hundred percent real cane sugar to fuel your body better.",
+    "source_article_nl": "Onze concurrenten gebruiken ongezonde suikervervangers en kunstmatige zoetstoffen. Maar Rev-Up Energy Drink bevat honderd procent echte rietsuiker om je lichaam beter van brandstof te voorzien.",
+    "source_article_zh": "我们的竞争对手使用不健康的代糖和人工甜味剂。但Rev-Up能量饮料含有百分之百的纯蔗糖，能更好地为你的身体提供能量。"
+  },
+  {
+    "updated_label": "fallacy of logic",
+    "source_article": "It’s possible to pass the class without attending regularly. Therefore, you will pass even if you don’t attend regularly.",
+    "source_article_nl": "Het is mogelijk om de klas te halen zonder regelmatig aanwezig te zijn. Daarom zul je slagen, zelfs als je niet regelmatig aanwezig bent.",
+    "source_article_zh": "不经常上课也有可能通过这门课。因此，即使你不经常上课，你也会通过。"
+  },
+  {
+    "updated_label": "circular reasoning",
+    "source_article": "\"I shouldn't have flunked the test because I never get F's\" is an example of",
+    "source_article_nl": "\"Ik had de toets niet moeten verprutsen omdat ik nooit F's krijg\" is een voorbeeld van",
+    "source_article_zh": "“我不应该考试不及格，因为我从没得过F” 是一个例子"
+  },
+  {
+    "updated_label": "faulty generalization",
+    "source_article": "If I don't take this AP class, then I won't do well on the exam. If I don't do well on the AP exam, then I won't get into a good college. If I can't get into a good college, then I'll never get a good job. If I can't get a good job, then I'm going to have to live in my parents' basement forever. Guess I'll sign up for the AP class...",
+    "source_article_nl": "Als ik deze AP-les niet volg, dan haal ik het examen niet. Als ik het AP-examen niet haal, dan kom ik niet op een goede universiteit. Als ik niet op een goede universiteit kan komen, dan krijg ik nooit een goede baan. Als ik geen goede baan kan krijgen, dan moet ik voor altijd in de kelder van mijn ouders wonen. Dus schrijf ik me maar in voor de AP-les…",
+    "source_article_zh": "如果我不参加这个AP课程，那么我考试就考不好。如果我AP考试考不好，那么我就进不了好大学。如果我进不了好大学，那么我就永远找不到好工作。如果我找不到好工作，那么我就得永远住在我父母的地下室里。看来我还是报名这个AP课程吧……"
+  },
+  {
+    "updated_label": "appeal to emotion",
+    "source_article": "I can’t take home a B in this course. My parents will be angry with me.",
+    "source_article_nl": "Ik kan geen B mee naar huis nemen voor deze cursus. Mijn ouders zullen boos op me zijn.",
+    "source_article_zh": "我不能在这门课上拿个B回家。我父母会生我的气。"
+  },
+  {
+    "updated_label": "equivocation",
+    "source_article": "I don't see how you can say you're an ethical person. It's so hard to get you to do anything; your work ethic is so bad",
+    "source_article_nl": "Ik zie niet hoe je kunt zeggen dat je een ethisch persoon bent. Het is zo moeilijk om je iets te laten doen; je werkethiek is zo slecht.",
+    "source_article_zh": "我不明白你怎么能说你是一个有道德的人。让你做任何事情都这么难；你的职业道德太差了。"
+  },
+  {
+    "updated_label": "fallacy of relevance",
+    "source_article": "I don't think that there should be marriage among homosexuals. Anyway, taxes on married people are high. I think that taxes on the married are just ridiculous.",
+    "source_article_nl": "Ik denk niet dat er huwelijken tussen homoseksuelen zouden moeten zijn. Hoe dan ook, belastingen voor gehuwden zijn hoog. Ik vind dat belastingen voor gehuwden gewoon belachelijk zijn.",
+    "source_article_zh": "我不认为同性恋之间应该存在婚姻。反正，已婚人士的税很高。我觉得对已婚人士征税简直荒谬。"
+  },
+  {
+    "updated_label": "circular reasoning",
+    "source_article": "\"We need to fix our broken judicial system by electing new people.\"\nThis logical fallacy is called...",
+    "source_article_nl": "\"We moeten ons gebroken rechtssysteem repareren door nieuwe mensen te kiezen.\" Deze logische denkfout heet...",
+    "source_article_zh": "\"我们需要通过选举新的人来修复我们破碎的司法系统。\" 这个逻辑谬误被称为..."
+  },
+  {
+    "updated_label": "intentional",
+    "source_article": "Audrey: I am a human being. I am not a cyborg from the future here to destroy humanity.\nFred: Prove that you are human! Cyborgs don't pass out when they lose a lot of blood. Here's a knife.\nAudrey: Get to bed, Freddie. And no more SYFY channel before bed!\n",
+    "source_article_nl": "Audrey: Ik ben een mens. Ik ben geen cyborg uit de toekomst die hier is om de mensheid te vernietigen.\nFred: Bewijs dat je menselijk bent! Cyborgs vallen niet flauw als ze veel bloed verliezen. Hier is een mes.\nAudrey: Ga naar bed, Freddie. En geen SYFY-kanaal meer voor het slapengaan!",
+    "source_article_zh": "Audrey: 我是一个人类。我不是来自未来要毁灭人类的半机械人。\nFred: 证明你是人类！半机械人失血过多时不会晕倒。给你一把刀。\nAudrey: 上床睡觉去，弗雷迪。睡前不准再看SYFY频道了！"
+  },
+  {
+    "updated_label": "faulty generalization",
+    "source_article": "If you don't study, you'll fail your test. Then you will do poorly in the class and you GPA will fall. You won't get into a good college, so you'll never get a decent job and you'll end up poor and homeless.",
+    "source_article_nl": "Als je niet studeert, zak je voor je toets. Dan presteer je slecht in de les en je GPA zal dalen. Je komt niet op een goede universiteit, dus je krijgt nooit een fatsoenlijke baan en je eindigt arm en dakloos.",
+    "source_article_zh": "如果你不学习，你就会考试不及格。然后你在班上表现不好，你的绩点就会下降。你上不了好大学，所以你就永远找不到体面的工作，最终会变得又穷又无家可归。"
+  },
+  {
+    "updated_label": "faulty generalization",
+    "source_article": "I know for a fact that ghosts exist. My friend, who is a very reliable person, has seen ghosts on many occasions.",
+    "source_article_nl": "Ik weet zeker dat spoken bestaan. Mijn vriend, die een zeer betrouwbaar persoon is, heeft spoken vele malen gezien.",
+    "source_article_zh": "我确凿地知道鬼魂存在。我的一个非常可靠的朋友多次见过鬼魂。"
+  },
+  {
+    "updated_label": "false dilemma",
+    "source_article": "If you don't say the Pledge of Allegiance, then you must be a traitor.",
+    "source_article_nl": "Als je de Pledge of Allegiance niet opzegt, dan ben je een verrader.",
+    "source_article_zh": "如果你不说 Pledge of Allegiance，那么你一定是叛徒。"
+  },
+  {
+    "updated_label": "fallacy of logic",
+    "source_article": "Not believing in the Tooth Fairy is like denying that the Titanic sank because eye-witnesses did not agree if the ship broke in half before or after it sank.",
+    "source_article_nl": "Niet geloven in de Tandenfee is hetzelfde als ontkennen dat de Titanic zonk omdat ooggetuigen het niet eens waren over of het schip in tweeën brak voor of nadat het zonk.",
+    "source_article_zh": "不相信牙仙就像否认泰坦尼克号沉没，因为目击者对于船是在沉没之前还是之后断成两半意见不一致。"
+  },
+  {
+    "updated_label": "faulty generalization",
+    "source_article": "All of my red-headed friends are good dancers. Therefore, all red-headed people must be good dancers. \nThis assumption from my experience is an example of",
+    "source_article_nl": "Al mijn roodharige vrienden zijn goede dansers. Daarom moeten alle roodharige mensen goede dansers zijn. Deze aanname op basis van mijn ervaring is een voorbeeld van",
+    "source_article_zh": "我所有红发朋友都是好舞者。因此，所有红发的人一定都是好舞者。这个基于我经验的假设是一个例子"
+  },
+  {
+    "updated_label": "ad hominem",
+    "source_article": "Louise is running for class president. In her campaign speech she says, \"My opponent does not deserve to win. She is a smoker and she cheated on her boyfriend last year.\" What fallacy has Louise committed?\nhttp://www.funtrivia.com",
+    "source_article_nl": "Louise stelt zich kandidaat voor klasvoorzitter. In haar campagnetekst zegt ze: \"Mijn tegenstander verdient het niet om te winnen. Ze is een roker en ze heeft vorig jaar haar vriendje bedrogen.\" Welke drogreden heeft Louise gebruikt? http://www.funtrivia.com",
+    "source_article_zh": "Louise正在竞选班长。在她的竞选演讲中，她说：“我的对手不值得赢。她是个烟民，去年还出轨了她的男朋友。”路易丝犯了什么逻辑谬误？http://www.funtrivia.com"
+  },
+  {
+    "updated_label": "false dilemma",
+    "source_article": "Dana is trying to raise money for her university's library. In her address to the board of trustees, she says, \"We must raise tuition to cover the cost of new books. Otherwise the library will be forced to close.\"\n\nOf what fallacy is this an example?",
+    "source_article_nl": "Dana probeert geld in te zamelen voor de bibliotheek van haar universiteit. In haar toespraak tot het bestuur zegt ze: \"We moeten het collegegeld verhogen om de kosten van nieuwe boeken te dekken. Anders wordt de bibliotheek gedwongen te sluiten.\" Van welke drogreden is dit een voorbeeld?",
+    "source_article_zh": "达娜正试图为她的大学图书馆筹集资金。她在对董事会的讲话中说：“我们必须提高学费以支付新书的费用，否则图书馆将被迫关闭。”这是什么逻辑谬误的例子？"
+  },
+  {
+    "updated_label": "intentional",
+    "source_article": "Jack: I have tiny, invisible unicorns living in my anus.\n\nNick: How do you figure?\n\nJack: Can you prove that I don't?\n\nNick: No.\n\nJack: Then I do.",
+    "source_article_nl": "Jack: Er wonen kleine, onzichtbare eenhoorns in mijn anus.\nNick: Hoe kom je daarbij?\nJack: Kun je bewijzen dat ik ze niet heb?\nNick: Nee.\nJack: Dan heb ik ze.",
+    "source_article_zh": "Jack: 我肛门里住着小而看不见的独角兽。\nNick: 你怎么得出的结论？\nJack: 你能证明我没有吗？\nNick: 不能。\nJack: 那我就是有。"
+  },
+  {
+    "updated_label": "ad hominem",
+    "source_article": "How can you tell me I should exercise to lose weight? All you do is sit behind a desk all day. I've never seen you do a lick of exercise.\n\nIdentify the logical fallacy commited in this argument.",
+    "source_article_nl": "Hoe kun je mij vertellen dat ik moet sporten om af te vallen? Jij zit de hele dag achter een bureau. Ik heb je nog nooit een beetje zien sporten.",
+    "source_article_zh": "你怎么能告诉我应该锻炼来减肥？你整天只是坐在办公桌后面。我从没见过你做一丁点锻炼。\n\nThe logical fallacy committed is an ad hominem (tu quoque) fallacy, also known as an appeal to hypocrisy."
+  },
+  {
+    "updated_label": "ad populum",
+    "source_article": "I am voting for Smith for President. My whole family is Democrat, so I'll be voting that way, too.",
+    "source_article_nl": "Ik stem op Smith voor president. Mijn hele familie is Democraat, dus ik zal ook zo stemmen.",
+    "source_article_zh": "我投票给史密斯当总统。我的全家都是民主党人，所以我也要这样投票。"
+  },
+  {
+    "updated_label": "fallacy of relevance",
+    "source_article": "We must eliminate affirmative action. We can’t rely on laws to end racial prejudice.",
+    "source_article_nl": "We moeten positieve discriminatie afschaffen. We kunnen niet vertrouwen op wetten om raciale vooroordelen te beëindigen.",
+    "source_article_zh": "我们必须废除平权行动。我们不能依赖法律来消除种族偏见。"
+  },
+  {
+    "updated_label": "intentional",
+    "source_article": "Your honor, while my son may have made a bad decision that night while under the influence of alcohol, it shouldn't affect the rest of his life. It was just one mistake. He's on the varsity swim team.",
+    "source_article_nl": "Uwe edelachtbare, hoewel mijn zoon die avond onder invloed van alcohol een slechte beslissing heeft genomen, mag dat niet de rest van zijn leven beïnvloeden. Het was maar één fout. Hij zit in het varsity-zwemteam.",
+    "source_article_zh": "尊敬的法官，虽然我的儿子那天晚上在酒精影响下可能做出了一个糟糕的决定，但这不应该影响他的一生。那只是一个错误。他是大学游泳队的成员。"
+  },
+  {
+    "updated_label": "fallacy of credibility",
+    "source_article": "There is definitely a link between dementia and drinking energy drinks. I read about it on Wikipedia.",
+    "source_article_nl": "Er is zeker een verband tussen dementie en het drinken van energiedrankjes. Ik las erover op Wikipedia.",
+    "source_article_zh": "痴呆症与饮用能量饮料之间肯定存在联系。我在维基百科上读到过。"
+  },
+  {
+    "updated_label": "false dilemma",
+    "source_article": "When a statement falsely claims or assumes an \"either / or\" situation, when in fact there is at least one additional logically valid option, it is called...",
+    "source_article_nl": "Wanneer een stelling ten onrechte beweert of veronderstelt dat er sprake is van een \"of / of\"-situatie, terwijl er in werkelijkheid ten minste één extra logisch geldige optie bestaat, wordt dit genoemd...",
+    "source_article_zh": "当一个陈述错误地声称或假设存在一个“要么/要么”的情况，而实际上至少还有一个逻辑上有效的选项时，这被称为……"
+  },
+  {
+    "updated_label": "fallacy of credibility",
+    "source_article": "Cocaine is all natural; therefore, it is good for you.",
+    "source_article_nl": "Cocaïne is volledig natuurlijk; daarom is het goed voor je.",
+    "source_article_zh": "可卡因是纯天然的；因此它对你有益。"
+  },
+  {
+    "updated_label": "ad populum",
+    "source_article": "The Freehold Raceway Mall is the best mall because there are always so many cars there.",
+    "source_article_nl": "The Freehold Raceway Mall is het beste winkelcentrum omdat er altijd zoveel auto's staan.",
+    "source_article_zh": "Freehold Raceway Mall 是最好的购物中心，因为那里总是有很多汽车。"
+  },
+  {
+    "updated_label": "fallacy of relevance",
+    "source_article": "SM 5: Argument regarding insanity as a defense against execution",
+    "source_article_nl": "SM 5: Argument betreffende krankzinnigheid als verweer tegen executie",
+    "source_article_zh": "SM 5: 关于精神错乱作为死刑抗辩的论点"
+  },
+  {
+    "updated_label": "ad hominem",
+    "source_article": "A: The Government should enact minimum-wage legislation so that workers are not exploited.\nB: Nonsense. You say that only because you cannot find a good job.",
+    "source_article_nl": "A: De overheid moet een minimumloonwet invoeren zodat werknemers niet worden uitgebuit.\nB: Onzin. Dat zeg je alleen maar omdat je geen goede baan kunt vinden.",
+    "source_article_zh": "A: 政府应该制定最低工资立法，这样工人就不会受到剥削。\nB: 胡说。你这么说只是因为你自己找不到好工作。"
+  },
+  {
+    "updated_label": "intentional",
+    "source_article": "If you buy the Disney annual pass you will save money when visiting the happiest place on Earth!",
+    "source_article_nl": "Als je de Disney-jaarkaart koopt, bespaar je geld bij een bezoek aan de gelukkigste plek op aarde!",
+    "source_article_zh": "如果你购买迪士尼年票，在访问地球上最快乐的地方时就能省钱！"
+  },
+  {
+    "updated_label": "ad populum",
+    "source_article": "God must exist because every culture has some sort of belief in a higher being.",
+    "source_article_nl": "God moet bestaan omdat elke cultuur een soort geloof in een hoger wezen heeft.",
+    "source_article_zh": "上帝一定存在，因为每种文化都有某种对更高存在的信仰。"
+  },
+  {
+    "updated_label": "fallacy of logic",
+    "source_article": "Kids: If you wouldn't eat your dog, why eat a turkey? Go vegan.",
+    "source_article_nl": "Kinderen: Als je je hond niet zou eten, waarom eet je dan een kalkoen? Word veganist.",
+    "source_article_zh": "孩子们：如果你不吃你的狗，为什么吃火鸡？成为纯素食者。"
+  },
+  {
+    "updated_label": "false dilemma",
+    "source_article": "If you aren’t a capitalist, you must be a communist.",
+    "source_article_nl": "Als je geen kapitalist bent, moet je wel een communist zijn.",
+    "source_article_zh": "如果你不是资本家，那你一定是共产主义者。"
+  },
+  {
+    "updated_label": "intentional",
+    "source_article": "My political candidate gives 10% of his income to the needy, goes to church every Sunday, and volunteers one day a week at a homeless shelter.  Therefore, he is honest and morally straight.",
+    "source_article_nl": "Mijn politieke kandidaat geeft 10% van zijn inkomen aan de armen, gaat elke zondag naar de kerk, en werkt een dag per week als vrijwilliger in een daklozenopvang. Daarom is hij eerlijk en moreel rechtvaardig.",
+    "source_article_zh": "我的政治候选人将他收入的10%捐给贫困者，每周日去教堂，每周花一天在无家可归者收容所做志愿者。因此，他是诚实且道德端正的。"
+  },
+  {
+    "updated_label": "fallacy of logic",
+    "source_article": "Most heroin users started out smoking pot. If you start smoking pot, you’ll end up a heroin user, too.",
+    "source_article_nl": "De meeste heroïnegebruikers zijn begonnen met het roken van wiet. Als je begint met het roken van wiet, zul je ook een heroïnegebruiker worden.",
+    "source_article_zh": "大多数海洛因使用者最初都是从吸大麻开始的。如果你开始吸大麻，你最终也会成为海洛因使用者。"
+  },
+  {
+    "updated_label": "fallacy of logic",
+    "source_article": "The Earth is round.\nTherefore, Trump.",
+    "source_article_nl": "De aarde is rond. Daarom, Trump.",
+    "source_article_zh": "地球是圆的。因此，特朗普。"
+  },
+  {
+    "updated_label": "appeal to emotion",
+    "source_article": "We have a responsibility to care for this poor lost dog.",
+    "source_article_nl": "Wij hebben de verantwoordelijkheid om voor deze arme verdwaalde hond te zorgen.",
+    "source_article_zh": "我们有责任照顾这只可怜走失的狗。"
+  },
+  {
+    "updated_label": "ad hominem",
+    "source_article": "Personally attacking someone to shift attention away from your views is",
+    "source_article_nl": "Iemand persoonlijk aanvallen om de aandacht van je eigen standpunten af te leiden is",
+    "source_article_zh": "人身攻击某人以转移对你观点的注意力是"
+  },
+  {
+    "updated_label": "appeal to emotion",
+    "source_article": "Do you still beat your wife?",
+    "source_article_nl": "Sla je je vrouw nog steeds?",
+    "source_article_zh": "你还在打你的妻子吗？"
+  },
+  {
+    "updated_label": "false dilemma",
+    "source_article": "\"Be my friend or be my enemy.\"",
+    "source_article_nl": "Wees mijn vriend of wees mijn vijand.",
+    "source_article_zh": "要么做我的朋友，要么做我的敌人。"
+  },
+  {
+    "updated_label": "faulty generalization",
+    "source_article": "10 of the last 14 National Spelling Bee Champions have been Indian American. Indian Americans must all be great spellers!",
+    "source_article_nl": "10 van de laatste 14 winnaars van de National Spelling Bee waren Indiaas-Amerikaans. Indiaas-Amerikanen moeten dus allemaal geweldige spellers zijn!",
+    "source_article_zh": "最近14届全国拼字大赛冠军中有10位是印度裔美国人。所以印度裔美国人一定都是拼写高手！"
+  },
+  {
+    "updated_label": "ad hominem",
+    "source_article": "But, Dad, I know you smoked when you were my age, so how can you tell me not to do it?",
+    "source_article_nl": "Maar, pap, ik weet dat jij rookte toen je mijn leeftijd had, dus hoe kun je mij nu vertellen dat ik het niet mag doen?",
+    "source_article_zh": "但是，爸，我知道你在我这个年纪时也抽烟，那你怎么能叫我不抽烟呢？"
+  },
+  {
+    "updated_label": "fallacy of extension",
+    "source_article": "\"Many democrats don't want a border wall with Mexico, which means they don't want to keep Americans safe\" IS an example of this fallacy.",
+    "source_article_nl": "\"Veel democraten willen geen grenswal met Mexico, wat betekent dat ze Amerikanen niet veilig willen houden\" IS een voorbeeld van deze drogreden.",
+    "source_article_zh": "\"很多民主党人不想要与墨西哥的边境墙，这意味着他们不想保护美国人的安全\" 是这种谬误的一个例子。"
+  },
+  {
+    "updated_label": "ad hominem",
+    "source_article": "Cat Stevens may be a successful and skilled musician, but let's not forget that he's been accused of extremist religious and political views.",
+    "source_article_nl": "Cat Stevens mag dan een succesvolle en getalenteerde muzikant zijn, maar laten we niet vergeten dat hij beschuldigd is van extremistische religieuze en politieke opvattingen.",
+    "source_article_zh": "Cat Stevens可能是一位成功且技艺精湛的音乐家，但我们不要忘记，他被指控持有极端宗教和政治观点。"
+  },
+  {
+    "updated_label": "false dilemma",
+    "source_article": "Pay taxes or go to jail",
+    "source_article_nl": "Betaal belasting of ga naar de gevangenis",
+    "source_article_zh": "交税或者坐牢"
+  },
+  {
+    "updated_label": "false causality",
+    "source_article": "\"I bought a ticket to win a new car at the mall, since I have never won anything like that in the past.\"",
+    "source_article_nl": "Ik kocht een ticket om een nieuwe auto te winnen in het winkelcentrum, aangezien ik nog nooit zoiets heb gewonnen in het verleden.",
+    "source_article_zh": "我在商场买了一张中奖赢新车的票，因为我过去从未赢过类似的东西。"
+  },
+  {
+    "updated_label": "fallacy of credibility",
+    "source_article": "My friend said that if you sneeze more than three times, you have the corona virus.",
+    "source_article_nl": "Mijn vriend zei dat als je meer dan drie keer niest, je het coronavirus hebt.",
+    "source_article_zh": "我的朋友说，如果你打喷嚏超过三次，你就得了冠状病毒。"
+  },
+  {
+    "updated_label": "fallacy of credibility",
+    "source_article": "I have no intention of stopping the use of somatostatin on patients suffering from acute pancreatitis. I consider it to be a very reasonable choice. After all, it has been standard practice in our department for many years and we’ve been quite satisfied with the results we’ve had.",
+    "source_article_nl": "Ik ben niet van plan te stoppen met het gebruik van somatostatine bij patiënten met acute pancreatitis. Ik beschouw het als een zeer redelijke keuze. Het is tenslotte al jarenlang standaardpraktijk in onze afdeling en we zijn zeer tevreden met de resultaten die we hebben behaald.",
+    "source_article_zh": "我没有打算停止对急性胰腺炎患者使用生长抑素。我认为这是一个非常合理的选择。毕竟，这在我们科室已经实行多年，而且我们对所取得的结果非常满意。"
+  },
+  {
+    "updated_label": "ad hominem",
+    "source_article": "A politician arguing that his opponent cannot possibly be a good choice for women because he has been married and divorced five times.",
+    "source_article_nl": "Een politicus die stelt dat zijn tegenstander onmogelijk een goede keuze kan zijn voor vrouwen, omdat hij vijf keer getrouwd en gescheiden is.",
+    "source_article_zh": "一位政客争辩说，他的对手绝不可能是女性的好选择，因为他已经结婚并离婚了五次。"
+  },
+  {
+    "updated_label": "false causality",
+    "source_article": "Explaining that the U.S. Civil War was fought only because of the institution of slavery",
+    "source_article_nl": "Uitleggen dat de Amerikaanse Burgeroorlog alleen werd gevoerd vanwege de instelling van slavernij",
+    "source_article_zh": "解释美国内战仅因奴隶制度而爆发"
+  },
+  {
+    "updated_label": "ad populum",
+    "source_article": "Company R.E. are working on advertisement for a new juice drink. Some of their marketing employees went to a school to do a survey on students’ beverage preference. The majority said they preferred orange-flavored drinks, so Jeff told his superiors that orange was the flavor favored most by high school students.",
+    "source_article_nl": "Bedrijf R.E. werkt aan reclame voor een nieuwe sapdrank. Enkele van hun marketingmedewerkers gingen naar een school om een enquête te houden over de drankvoorkeur van leerlingen. De meerderheid zei dat ze de voorkeur gaven aan dranken met sinaasappelsmaak, dus vertelde Jeff aan zijn leidinggevenden dat sinaasappel de smaak was die het meest werd verkozen door middelbare scholieren.",
+    "source_article_zh": "公司R.E.正在为一种新的果汁饮料做广告。一些市场营销员工去了一所学校，对学生们的饮料偏好进行调查。大多数人表示他们更喜欢橙子味的饮料，所以杰夫告诉他的上司，橙子是高中生最喜欢的口味。"
+  },
+  {
+    "updated_label": "appeal to emotion",
+    "source_article": "We shouldn’t put her in jail even if she stole billions of pesos. She is already too old to be locked up.",
+    "source_article_nl": "We zouden haar niet in de gevangenis moeten stoppen, zelfs niet als ze miljarden peso's heeft gestolen. Ze is al te oud om opgesloten te worden.",
+    "source_article_zh": "即使她偷了数十亿比索，我们也不应该把她关进监狱。她已经太老了，不适合被关起来。"
+  },
+  {
+    "updated_label": "fallacy of relevance",
+    "source_article": "You call the Marcoses murderers and plunderers yet you cannot lend me money for my school project, murdering my chance for a higher grade. You are just like them.",
+    "source_article_nl": "Je noemt de Marcoses moordenaars en plunderaars, maar je kunt me geen geld lenen voor mijn schoolproject, terwijl je mijn kans op een hoger cijfer vermoordt. Jij bent net als zij.",
+    "source_article_zh": "你称马科斯家族为杀人犯和掠夺者，却不肯借钱给我做学校项目，扼杀了我获得更高分数的机会。你和他们一样。"
+  },
+  {
+    "updated_label": "false causality",
+    "source_article": "She took a drink from the drinking fountain yesterday and now she's sick. It must have been the public fountain that made her sick.",
+    "source_article_nl": "Ze dronk gisteren uit de drinkfontein en nu is ze ziek. Het moet de openbare fontein zijn geweest die haar ziek heeft gemaakt.",
+    "source_article_zh": "她昨天从饮水机喝了一口水，现在生病了。一定是那个公共饮水机让她生病的。"
+  },
+  {
+    "updated_label": "ad hominem",
+    "source_article": "\"Her arguments against the protest were weak. After all, she can't be fair; she works for the government.\"",
+    "source_article_nl": "Haar argumenten tegen het protest waren zwak. Ze kan immers niet onpartijdig zijn; ze werkt voor de overheid.",
+    "source_article_zh": "她反对抗议的论点很弱。毕竟，她不可能公正；她在政府工作。"
+  },
+  {
+    "updated_label": "appeal to emotion",
+    "source_article": "\"If you don't turn in your homework, you will be getting a call home.",
+    "source_article_nl": "Als je je huiswerk niet inlevert, krijg je een telefoontje naar huis.",
+    "source_article_zh": "如果你不交作业，你就会接到一个打到家里的电话。"
+  },
+  {
+    "updated_label": "ad hominem",
+    "source_article": "You can't believe Jack when he says there is a God because he doesn't even have a job.",
+    "source_article_nl": "Je kunt Jack niet geloven wanneer hij zegt dat er een God is, omdat hij niet eens een baan heeft.",
+    "source_article_zh": "你不能相信杰克说存在上帝，因为他甚至没有工作。"
+  },
+  {
+    "updated_label": "fallacy of logic",
+    "source_article": "\"1 is a number and 2 is a number so 1 = 2\"",
+    "source_article_nl": "1 is een getal en 2 is een getal dus 1 = 2",
+    "source_article_zh": "1是一个数，2是一个数，所以1=2"
+  },
+  {
+    "updated_label": "faulty generalization",
+    "source_article": "sending M-16s to Syrian rebels inevitably mean boots on the ground in Damascus.",
+    "source_article_nl": "Het sturen van M-16's naar Syrische rebellen betekent onvermijdelijk laarzen op de grond in Damascus.",
+    "source_article_zh": "将M-16步枪送往叙利亚叛军必然意味着在大马士革有地面部队。"
+  },
+  {
+    "updated_label": "false causality",
+    "source_article": "A rainbow appeared in the sky the day before basketball tryouts, and I made the team! If there's a rainbow when I try out in the spring, I'm sure I'll make the team again.",
+    "source_article_nl": "Een regenboog verscheen aan de hemel de dag voor de basketbalselectie, en ik haalde het team! Als er in het voorjaar een regenboog is wanneer ik meedoe aan de selectie, weet ik zeker dat ik het team weer zal halen.",
+    "source_article_zh": "篮球队选拔前一天天空出现了彩虹，我成功入选了队伍！如果春天我参加选拔时也有彩虹，我肯定能再次入选。"
+  },
+  {
+    "updated_label": "fallacy of extension",
+    "source_article": "Charlie: I think we should put more money into schools. Quality public education is so important. Bob: So you’re saying we should cut military spending and spend it instead on more spiral notebooks and crayons? I guess you want our country to be a weak, defenseless target for terrorists.",
+    "source_article_nl": "Charlie: Ik vind dat we meer geld in scholen moeten steken. Hoogwaardig openbaar onderwijs is zo belangrijk. Bob: Dus jij zegt dat we de militaire uitgaven moeten verlagen en dat geld in plaats daarvan aan meer spiraalnotitieboekjes en kleurpotloden moeten besteden? Ik neem aan dat je wilt dat ons land een zwak, weerloos doelwit voor terroristen wordt.",
+    "source_article_zh": "Charlie: 我认为我们应该向学校投入更多资金。高质量的公共教育非常重要。Bob：所以你的意思是我们要削减军费开支，转而购买更多的螺旋笔记本和蜡笔？我猜你是想让我们的国家成为恐怖分子眼中软弱无力、毫无防御的目标吧。"
+  },
+  {
+    "updated_label": "fallacy of extension",
+    "source_article": "Death penalty will not scare criminals because they don’t expect to be caught",
+    "source_article_nl": "De doodstraf zal criminelen niet afschrikken omdat ze niet verwachten gepakt te worden",
+    "source_article_zh": "死刑不会吓到罪犯，因为他们不认为自己会被抓住"
+  },
+  {
+    "updated_label": "false causality",
+    "source_article": "I dropped the ball because Mercury is in retrograde.",
+    "source_article_nl": "Ik liet de bal vallen omdat Mercurius in retrograde is.",
+    "source_article_zh": "我掉球了因为水星在逆行。"
+  },
+  {
+    "updated_label": "circular reasoning",
+    "source_article": "I deserve to have a later curfew, so you should let me stay out until 10pm!",
+    "source_article_nl": "Ik verdien een latere avondklok, dus je moet me tot 22:00 uur buiten laten blijven!",
+    "source_article_zh": "我应得一个更晚的宵禁时间，所以你应该让我在外面待到晚上10点！"
+  },
+  {
+    "updated_label": "intentional",
+    "source_article": " Perhaps the most classic example of this fallacy is the argument for the existence of God.  Due to the understanding of nature through science, many of the arguments that used to be used for God (or gods) were abandoned, only to be replaced with new ones, usually involving questions to which science has not definitively answered yet.  The move from creationism to intelligent design is a prime example.  Currently the origin of life is a popular argument for God (although a classic argument from ignorance), and an area where we very well may have a scientific answer in the next decade, at which time, the “origin of life” argument will fade away and be replaced by another, thus moving the figurative goalposts farther back as our understanding of the natural world increases.Exception: This fallacy should not be confused with an argument or set of arguments, with multiple propositions inherent in the argument.  The reason for the difference between this kind of argument and the moving the goalposts fallacy, is a subtle one, but indicated by a strong initial claim (“has to be”, “must”, “required for”, etc.) that gets answered and/or what appears to be ad hoc objections that follow eventually leading to an impossible request for proof.\nFun Fact: The name “moving the goalposts” comes from the analogy of kicking a perfect field goal in American football, only to have the goalposts be moved on you. This would be very unfair.\nReferences:\nThis a logical fallacy frequently used on the Internet. No academic sources could be found.\nQuestions about this fallacy? Ask our community!\n",
+    "source_article_nl": "Wellicht het meest klassieke voorbeeld van deze drogreden is het argument voor het bestaan van God. Door het begrip van de natuur via de wetenschap werden veel argumenten die vroeger voor God (of goden) werden gebruikt, verlaten, om vervangen te worden door nieuwe, die meestal vragen betreffen waar de wetenschap nog geen definitief antwoord op heeft gegeven. De overgang van creationisme naar intelligent design is een sprekend voorbeeld. Momenteel is de oorsprong van het leven een populair argument voor God (hoewel een klassiek argument uit onwetendheid), en een gebied waar we zeer goed binnen het volgende decennium een wetenschappelijk antwoord op kunnen hebben, waarna het \"oorsprong van het leven\"-argument zal verdwijnen en vervangen worden door een ander, waarmee de figuurlijke doelpalen verder naar achteren worden verplaatst naarmate ons begrip van de natuurlijke wereld toeneemt. Uitzondering: Deze drogreden mag niet worden verward met een argument of reeks argumenten, met meerdere stellingen die inherent zijn aan het argument. De reden voor het verschil tussen dit soort argument en de 'doelpalen verplaatsen'-drogreden is subtiel, maar wordt aangegeven door een sterke eerste claim (\"moet\", \"dient\", \"vereist voor\", enz.) die wordt beantwoord en/of wat lijkt op ad hoc bezwaren die volgen, wat uiteindelijk leidt tot een onmogelijk verzoek om bewijs. Leuke feit: De naam \"de doelpalen verplaatsen\" komt van de analogie van het trappen van een perfect velddoelpunt in American football, alleen om de doelpalen voor je te laten verplaatsen. Dit zou zeer oneerlijk zijn. Referenties: Dit is een logische drogreden die vaak op het internet wordt gebruikt. Er konden geen academische bronnen worden gevonden. Vragen over deze drogreden? Vraag het onze gemeenschap!",
+    "source_article_zh": "也许这种谬误最经典的例子就是关于上帝存在的论证。由于通过科学对自然的理解，许多过去用来证明上帝（或诸神）的论点已被抛弃，取而代之的是新的论点，通常涉及科学尚未明确回答的问题。从神创论转向智能设计就是一个典型例子。目前，生命的起源是一个流行的支持上帝的论点（尽管是一种典型的诉诸无知谬误），而且我们很可能在未来十年内得到科学上的回答，届时“生命起源”的论点将会消退，被另一个论点取代，从而随着我们对自然世界认知的增长，比喻性的球门柱被进一步向后移动。例外：这种谬误不应与包含多个命题的单一论点或一组论点相混淆。这种论证与“移动球门柱”谬误之间的区别很微妙，但通过一个强烈的初始主张（“必须”、“一定”、“需要”等）来体现，该主张被回应和/或随后出现看似临时的反对意见，最终导致一个不可能的证据要求。趣闻：“移动球门柱”这个名称来源于美式足球中踢出一个完美的射门得分，却有人把球门柱移开的比喻。这非常不公平。参考文献：这是一个经常在互联网上使用的逻辑谬误。未能找到学术来源。关于这个谬误有问题？请向我们社区提问！"
+  },
+  {
+    "updated_label": "fallacy of logic",
+    "source_article": "What is wrong with Tanya? She only has five hundred dollars saved and she’s going away to college next year. That would be like letting my four-year-old brother go to Russia by hisself.",
+    "source_article_nl": "Wat is er mis met Tanya? Ze heeft maar vijfhonderd dollar gespaard en ze gaat volgend jaar naar de universiteit. Dat is alsof ik mijn vierjarige broertje in zijn eentje naar Rusland laat gaan.",
+    "source_article_zh": "Tanya 怎么了？她只存了五百美元，明年就要去上大学了。那就像让我四岁的弟弟自己一个人去俄罗斯一样。"
+  },
+  {
+    "updated_label": "faulty generalization",
+    "source_article": "People from big cities are not as friendly as those from small towns.",
+    "source_article_nl": "Mensen uit grote steden zijn niet zo vriendelijk als die uit kleine steden.",
+    "source_article_zh": "大城市的人不如小城镇的人友善。"
+  },
+  {
+    "updated_label": "faulty generalization",
+    "source_article": "All people who live in England have bad teeth.",
+    "source_article_nl": "Alle mensen die in Engeland wonen, hebben slechte tanden.",
+    "source_article_zh": "所有住在英格兰的人都有坏牙齿。"
+  },
+  {
+    "updated_label": "faulty generalization",
+    "source_article": "Don't ever steal! Once you start, you won't be able to stop, and you'll end up bankrupt.",
+    "source_article_nl": "Steel nooit! Als je eenmaal begint, kun je niet meer stoppen en eindig je failliet.",
+    "source_article_zh": "永远不要偷窃！一旦开始，你就无法停止，最终会破产。"
+  },
+  {
+    "updated_label": "false dilemma",
+    "source_article": "This fallacy (also known as “false dilemma”) occurs when a speaker or writer makes a veiled threat by reducing a complex issue to two options: either you see it my way or this bad thing will happen.",
+    "source_article_nl": "Deze drogreden (ook bekend als “vals dilemma”) treedt op wanneer een spreker of schrijver een verkapte dreiging uit door een complexe kwestie terug te brengen tot twee opties: of u ziet het op mijn manier of er zal iets slechts gebeuren.",
+    "source_article_zh": "这种谬误（也称为“虚假两难”）发生在说话者或作者通过将复杂问题简化为两个选项来发出隐晦威胁时：要么你认同我的观点，要么坏事就会发生。"
+  },
+  {
+    "updated_label": "appeal to emotion",
+    "source_article": "Using positive words that become associated with something, like company slogans and political advertisements",
+    "source_article_nl": "Het gebruiken van positieve woorden die met iets geassocieerd raken, zoals bedrijfsslogans en politieke advertenties",
+    "source_article_zh": "使用与某事物相关联的正面词汇，例如公司口号和政治广告"
+  },
+  {
+    "updated_label": "fallacy of relevance",
+    "source_article": "Mrs. Collier, we can't take a quiz tomorrow! The new season of Game of Thrones premieres tonight!!",
+    "source_article_nl": "Mevrouw Collier, we kunnen morgen geen toets doen! Het nieuwe seizoen van Game of Thrones gaat vanavond in première!!",
+    "source_article_zh": "科利尔夫人，我们明天不能参加测验！《权力的游戏》新一季今晚首播！！"
+  },
+  {
+    "updated_label": "false causality",
+    "source_article": "My brother received the COVID-19 vaccine and then had diarrhea for a week. The vaccine is the reason my brother's bowels came undone.",
+    "source_article_nl": "Mijn broer kreeg het COVID-19-vaccin en had daarna een week lang diarree. Het vaccin is de reden dat de darmen van mijn broer het begaven.",
+    "source_article_zh": "我的兄弟接种了COVID-19疫苗，然后腹泻了一周。疫苗是我兄弟肠道出乱子的原因。"
+  },
+  {
+    "updated_label": "ad hominem",
+    "source_article": "Tony wants us to believe that the origin of life was an “accident”.  Tony is a godless SOB who has spent more time in jail than in church, so the only information we should consider from him is the best way to make license plates.",
+    "source_article_nl": "Tony wil ons doen geloven dat de oorsprong van het leven een “ongeluk” was. Tony is een goddeloze klootzak die meer tijd in de gevangenis heeft doorgebracht dan in de kerk, dus de enige informatie die we van hem moeten overwegen, is de beste manier om kentekenplaten te maken.",
+    "source_article_zh": "托尼想让我们相信生命的起源是一个“意外”。托尼是一个无神的混蛋，他在监狱里的时间比在教堂里还多，所以我们从他那里唯一应该考虑的信息，就是制作车牌的最佳方式。"
+  },
+  {
+    "updated_label": "fallacy of logic",
+    "source_article": "I currently have as patients in my practice all the patients in this town who are willing and able to pay $5,000 per session for long-term twice-weekly therapy. If you buy my practice, all my clients will be included. Therefore, if you buy my practice you will then have at least some patients willing and able to pay $5,000 per session for long-term twice-weekly therapy.",
+    "source_article_nl": "Ik heb momenteel als patiënten in mijn praktijk alle patiënten in deze stad die bereid en in staat zijn $5.000 per sessie te betalen voor langdurige tweewekelijkse therapie. Als u mijn praktijk koopt, worden al mijn cliënten inbegrepen. Daarom, als u mijn praktijk koopt, zult u dan ten minste enkele patiënten hebben die bereid en in staat zijn $5.000 per sessie te betalen voor langdurige tweewekelijkse therapie.",
+    "source_article_zh": "我目前在执业中接待的患者包括本镇所有愿意且能够每次支付5000美元进行长期每周两次治疗的患者。如果您购买我的执业，我所有的客户都将包含在内。因此，如果您购买我的执业，那么您将至少拥有一些愿意且能够每次支付5000美元进行长期每周两次治疗的患者。"
+  },
+  {
+    "updated_label": "circular reasoning",
+    "source_article": "all bachelors are unmarried males",
+    "source_article_nl": "alle vrijgezellen zijn ongehuwde mannen",
+    "source_article_zh": "所有单身汉都是未婚男性"
+  },
+  {
+    "updated_label": "faulty generalization",
+    "source_article": "“No! Don't eat that piece of chocolate. Today, it's one piece of chocolate, but tomorrow, you've gained 20 lbs!”",
+    "source_article_nl": "“Nee! Eet dat stuk chocolade niet. Vandaag is het één stuk chocolade, maar morgen ben je 20 pond zwaarder!”",
+    "source_article_zh": "“不！别吃那块巧克力。今天是一块巧克力，但明天你就胖了20磅！”"
+  },
+  {
+    "updated_label": "faulty generalization",
+    "source_article": "“She was wearing cowboy boots in her last Instagram picture so she must be into country music.”",
+    "source_article_nl": "\"Ze droeg cowboylaarzen op haar laatste Instagramfoto, dus ze moet van countrymuziek houden.\"",
+    "source_article_zh": "\"她上一张Instagram照片里穿着牛仔靴，所以她一定喜欢乡村音乐。\""
+  },
+  {
+    "updated_label": "intentional",
+    "source_article": "This fallacy isn’t proof of anything except that you don’t know something.",
+    "source_article_nl": "Deze drogreden is geen bewijs van iets behalve dat je iets niet weet.",
+    "source_article_zh": "这个谬误除了证明你不知道某些事情之外，不能证明任何事情。"
+  },
+  {
+    "updated_label": "fallacy of relevance",
+    "source_article": "Big deal! Lots of people cheat too.",
+    "source_article_nl": "Groot nieuws! Veel mensen bedriegen ook.",
+    "source_article_zh": "有什么了不起的！很多人也作弊。"
+  },
+  {
+    "updated_label": "ad hominem",
+    "source_article": "Charlie: Fast food is filled with salt, fat, and added sugars. We need better regulation of the industry.\nBob: That may be, but you’re such a hypocrite! I saw you devour a Triple-Baconator, super-sized fries, and 64 ounces of soda yesterday.",
+    "source_article_nl": "Charlie: Fastfood zit vol met zout, vet en toegevoegde suikers. We hebben betere regulering van de industrie nodig.\nBob: Dat mag dan zo zijn, maar jij bent zo'n hypocriet! Ik zag je gisteren een Triple-Baconator, super-formaat friet en 64 ounce frisdrank naar binnen werken.",
+    "source_article_zh": "Charlie：快餐充满了盐、脂肪和添加糖。我们需要更好的行业监管。\nBob：那也许是，但你真是个伪君子！我昨天看到你大吃了一个Triple-Baconator、超大份薯条和64盎司的苏打水。"
+  },
+  {
+    "updated_label": "equivocation",
+    "source_article": "If I tell my teacher I have done my homework, but I have only done part of it, I am using",
+    "source_article_nl": "Als ik tegen mijn leraar zeg dat ik mijn huiswerk heb gemaakt, terwijl ik er maar een deel van heb gedaan, gebruik ik",
+    "source_article_zh": "如果我告诉我的老师我完成了作业，但实际上我只做了一部分，那我就是在使用"
+  },
+  {
+    "updated_label": "faulty generalization",
+    "source_article": "Teachers don't have lives.\"My best friend said her English class was hard, and the one I'm in is hard too. All English classes must be hard.\"",
+    "source_article_nl": "Docenten hebben geen leven.\"Mijn beste vriendin zei dat haar Engelse les moeilijk was, en die waarin ik zit is ook moeilijk. Alle Engelse lessen moeten moeilijk zijn.\"",
+    "source_article_zh": "老师们没有生活。“我最好的朋友说她的英语课很难，我上的那门也很难。所有英语课一定都很难。”"
+  },
+  {
+    "updated_label": "fallacy of credibility",
+    "source_article": "Dr. McKenzie said all kids can fly, so it must be true!",
+    "source_article_nl": "Dr. McKenzie zei dat alle kinderen kunnen vliegen, dus het moet waar zijn!",
+    "source_article_zh": "麦肯齐博士说所有孩子都能飞，所以这一定是真的！"
+  },
+  {
+    "updated_label": "fallacy of relevance",
+    "source_article": "\"Dad, it's difficult to make a living on my salary.\"\n\n\"Consider yourself lucky. When I was your age, I was living on $40 a week.\"",
+    "source_article_nl": "\"Papa, het is moeilijk om rond te komen van mijn salaris.\"\n\"Beschouw jezelf maar gelukkig. Toen ik zo oud was als jij, leefde ik van $40 per week.\"",
+    "source_article_zh": "\"爸爸，靠我的薪水生活很困难。\"\n\"你应该感到幸运。我在你这个年纪时，每周只靠40美元生活。\""
+  },
+  {
+    "updated_label": "faulty generalization",
+    "source_article": "My grandfather was a typical Irishman - friendly, outgoing, and drunk half the time.",
+    "source_article_nl": "Mijn grootvader was een typische Ier - vriendelijk, sociaal en de helft van de tijd dronken.",
+    "source_article_zh": "我的祖父是个典型的爱尔兰人——友好、外向，而且有一半时间都醉醺醺的。"
+  },
+  {
+    "updated_label": "ad populum",
+    "source_article": "\"Everyone is wearing the new skinny jeans from American Eagle. Are you?\"",
+    "source_article_nl": "Iedereen draagt de nieuwe skinny jeans van American Eagle. Jij ook?",
+    "source_article_zh": "每个人都穿着American Eagle的新款紧身牛仔裤。你呢？"
+  },
+  {
+    "updated_label": "fallacy of credibility",
+    "source_article": "Aristotle thought women were inferior to men. Aristotle is one of the smartest men who ever lived, so he must be right about this.",
+    "source_article_nl": "Aristoteles vond dat vrouwen inferieur waren aan mannen. Aristoteles is een van de slimste mannen die ooit heeft geleefd, dus hij moet hierin gelijk hebben.",
+    "source_article_zh": "亚里士多德认为女性不如男性。亚里士多德是有史以来最聪明的人之一，所以他在这点上肯定是对的。"
+  },
+  {
+    "updated_label": "faulty generalization",
+    "source_article": "If you don't get up early every day you will be late. The more you are late the more trouble you will get into. The more trouble you get into, you will end up losing your job and your family will starve. (This is an example of...)",
+    "source_article_nl": "Als je niet elke dag vroeg opstaat, zul je te laat komen. Hoe vaker je te laat komt, hoe meer problemen je krijgt. Hoe meer problemen je krijgt, hoe je uiteindelijk je baan verliest en je gezin zal verhongeren. (Dit is een voorbeeld van...)",
+    "source_article_zh": "如果你不每天早起，你就会迟到。你越迟到，你就会越陷入麻烦。你越陷入麻烦，你最终会失去工作，你的家人会挨饿。（这是一个例子……）"
+  },
+  {
+    "updated_label": "fallacy of logic",
+    "source_article": "Schools are like families; therefore teachers (like parents) should be allowed to discipline their students.",
+    "source_article_nl": "Scholen zijn als families; daarom zouden leraren (als ouders) toegestaan moeten worden om hun leerlingen te disciplineren.",
+    "source_article_zh": "学校就像家庭；因此教师（像父母一样）应该被允许管教他们的学生。"
+  },
+  {
+    "updated_label": "faulty generalization",
+    "source_article": "People nowadays only vote with their emotions instead of their brains.",
+    "source_article_nl": "Mensen stemmen tegenwoordig alleen met hun emoties in plaats van met hun verstand.",
+    "source_article_zh": "如今人们只用情感投票，而不用理智。"
+  },
+  {
+    "updated_label": "ad hominem",
+    "source_article": "Lucas: I remember when I was about three years old my mother saved me from almost being eaten by a shark.\nKatie: I doubt that. What you are experiencing is what cognitive psychologists refer to as a \"false memory.\"\n",
+    "source_article_nl": "Lucas: Ik herinner me dat ik ongeveer drie jaar oud was toen mijn moeder me redde van bijna opgegeten te worden door een haai.\nKatie: Dat betwijfel ik. Wat je ervaart, is wat cognitief psychologen een \"valse herinnering\" noemen.",
+    "source_article_zh": "卢卡斯：我记得我三岁左右的时候，我妈妈救了我，让我差点没被鲨鱼吃掉。\n凯蒂：我对此表示怀疑。你正在经历的是认知心理学家所称的“虚假记忆”。"
+  },
+  {
+    "updated_label": "faulty generalization",
+    "source_article": "We think this new MallTime game app will be a success because all little girls like shopping.",
+    "source_article_nl": "We denken dat deze nieuwe MallTime-game-app een succes zal worden, omdat alle kleine meisjes van winkelen houden.",
+    "source_article_zh": "我们认为这款新的MallTime游戏应用会成功，因为所有小女孩都喜欢购物。"
+  },
+  {
+    "updated_label": "ad hominem",
+    "source_article": "Leonardo DiCaprio is just a dumb actor. What does he really know about climate change?",
+    "source_article_nl": "Leonardo DiCaprio is gewoon een domme acteur. Wat weet hij nou echt over klimaatverandering?",
+    "source_article_zh": "莱昂纳多·迪卡普里奥只是个愚蠢的演员。他对气候变化真正了解多少？"
+  },
+  {
+    "updated_label": "faulty generalization",
+    "source_article": "The teenagers where rude and disrespectful therefore all teenagers are rude and disrespectful.",
+    "source_article_nl": "De tieners waren onbeleefd en respectloos, dus alle tieners zijn onbeleefd en respectloos.",
+    "source_article_zh": "那些青少年粗鲁无礼，因此所有青少年都粗鲁无礼。"
+  },
+  {
+    "updated_label": "fallacy of extension",
+    "source_article": "Caroline says that she thinks her friends should not be so rude to the new girl. Jenna says that she cannot believe that Caroline is choosing to be better friends with the new girl than the girls who have always known her.",
+    "source_article_nl": "Caroline zegt dat ze vindt dat haar vriendinnen niet zo onbeleefd moeten zijn tegen het nieuwe meisje. Jenna zegt dat ze niet kan geloven dat Caroline ervoor kiest om betere vrienden te zijn met het nieuwe meisje dan met de meisjes die haar altijd hebben gekend.",
+    "source_article_zh": "卡罗琳说，她认为她的朋友们不应该对新来的女孩那么粗鲁。珍娜说，她不敢相信卡罗琳选择和新来的女孩做更好的朋友，而不是和那些一直认识她的女孩们。"
+  },
+  {
+    "updated_label": "ad hominem",
+    "source_article": "My opponent raises a good point, but can we really trust him? I mean, he moved to this town two years ago and everyone knows that his wife left him.",
+    "source_article_nl": "Mijn tegenstander maakt een goed punt, maar kunnen we hem echt vertrouwen? Ik bedoel, hij is twee jaar geleden naar deze stad verhuisd en iedereen weet dat zijn vrouw hem heeft verlaten.",
+    "source_article_zh": "我的对手提出了一个很好的观点，但我们真的能信任他吗？我的意思是，他两年前搬到了这个镇上，所有人都知道他妻子离开了他。"
+  },
+  {
+    "updated_label": "faulty generalization",
+    "source_article": "\"The Americans I know say they elected the new president because they were tired of having their jobs sent overseas. This question of jobs brought this president into office.\"",
+    "source_article_nl": "De Amerikanen die ik ken, zeggen dat ze de nieuwe president hebben gekozen omdat ze het zat waren dat hun banen naar het buitenland werden verplaatst. Deze kwestie van banen bracht deze president in het ambt.",
+    "source_article_zh": "我所认识的美国人说他们选举了新总统，因为他们厌倦了工作被送到海外。这个关于工作的问题使这位总统上台。"
+  },
+  {
+    "updated_label": "faulty generalization",
+    "source_article": "We think this new MallTime game app will be a success because all girls like shopping.",
+    "source_article_nl": "We denken dat deze nieuwe MallTime-game-app een succes zal worden, omdat alle meisjes van winkelen houden.",
+    "source_article_zh": "我们认为这款新的MallTime游戏应用会成功，因为所有女孩都喜欢购物。"
+  },
+  {
+    "updated_label": "fallacy of relevance",
+    "source_article": "Saying that a compromise between two extremes is the truth",
+    "source_article_nl": "Zeggen dat een compromis tussen twee extremen de waarheid is",
+    "source_article_zh": "说两个极端之间的妥协就是真理"
+  },
+  {
+    "updated_label": "faulty generalization",
+    "source_article": "Christine has a terrible experience with a boyfriend. She decides that all boys are mean.",
+    "source_article_nl": "Christine heeft een vreselijke ervaring met een vriendje. Ze besluit dat alle jongens gemeen zijn.",
+    "source_article_zh": "Christine 与她的男朋友有过一次糟糕的经历。她断定所有男孩都是刻薄的。"
+  },
+  {
+    "updated_label": "ad populum",
+    "source_article": "taps into people's desire to belong",
+    "source_article_nl": "speelt in op het verlangen van mensen om erbij te horen",
+    "source_article_zh": "利用了人们归属的欲望"
+  },
+  {
+    "updated_label": "fallacy of relevance",
+    "source_article": "Mob of people: Lower taxes! Lower taxes!\n\nPolitician: People, your taxes are high because of illegal immigrants. That's right—illegal immigrants. We need to get rid of them.\n\nMob of people: (murmuring amongst themselves) Hmmm... immigrants. Let's get rid of them!",
+    "source_article_nl": "Menigte: Lagere belastingen! Lagere belastingen!\n\nPoliticus: Mensen, jullie belastingen zijn hoog vanwege illegale immigranten. Dat klopt—illegale immigranten. We moeten van ze af.\n\nMenigte: (onderling mompelend) Hmm... immigranten. Laten we van ze afkomen!",
+    "source_article_zh": "一群人：降低税收！降低税收！\n\n政治家：各位，你们的税收高是因为非法移民。没错——非法移民。我们必须摆脱他们。\n\n一群人：（互相嘀咕）嗯……移民。我们摆脱他们吧！"
+  },
+  {
+    "updated_label": "fallacy of extension",
+    "source_article": "Al Gore feels that all companies are irresponsible and should be punished for allowing emissions which causes global warming.",
+    "source_article_nl": "Al Gore vindt dat alle bedrijven onverantwoordelijk zijn en gestraft moeten worden omdat ze emissies toestaan die opwarming van de aarde veroorzaken.",
+    "source_article_zh": "阿尔·戈尔认为所有公司都不负责任，应该因为允许导致全球变暖的排放而受到惩罚。"
+  },
+  {
+    "updated_label": "fallacy of credibility",
+    "source_article": "“I admire the president for being a good role model.” REPLY: “But the New York Times says he’s a lousy role model, so you’re wrong.”",
+    "source_article_nl": "“Ik bewonder de president omdat hij een goed rolmodel is.” ANTWOORD: “Maar de New York Times zegt dat hij een slecht rolmodel is, dus je hebt het mis.”",
+    "source_article_zh": "“我钦佩总统，因为他是一个好的榜样。” 回复：“但《纽约时报》说他是个糟糕的榜样，所以你错了。”"
+  },
+  {
+    "updated_label": "ad hominem",
+    "source_article": "My best friend says you’re a liar, so I’m not going to talk to you.",
+    "source_article_nl": "Mijn beste vriend zegt dat je een leugenaar bent, dus ik ga niet met je praten.",
+    "source_article_zh": "我最好的朋友说你是个骗子，所以我不打算和你说话。"
+  },
+  {
+    "updated_label": "faulty generalization",
+    "source_article": "A father talking to his daughter on dating a boyfriend he doesn’t like says, “If you continue dating this guy who doesn’t take his education seriously, you’ll end up dropping out of school, you then won’t be able to get a job, and you will get married too young.”",
+    "source_article_nl": "Een vader die met zijn dochter praat over daten met een vriendje dat hij niet leuk vindt, zegt: \"Als je blijft daten met deze jongen die zijn opleiding niet serieus neemt, zul je uiteindelijk stoppen met school, dan kun je geen baan krijgen en zul je te jong trouwen.\"",
+    "source_article_zh": "一位父亲在和他的女儿谈论她交往一个他不喜欢的男朋友时说：“如果你继续和这个不认真对待学业的家伙约会，你最终会辍学，然后你就找不到工作，还会过早结婚。”"
+  },
+  {
+    "updated_label": "false causality",
+    "source_article": "When sales of hot chocolate go up, street crime drops.",
+    "source_article_nl": "Wanneer de verkoop van warme chocolademelk stijgt, daalt de straatcriminaliteit.",
+    "source_article_zh": "当热巧克力销量上升时，街头犯罪率下降。"
+  },
+  {
+    "updated_label": "ad hominem",
+    "source_article": "Lola: I don't think John would be a good fit to manage this project, because he doesn't have a lot of experience with project management.\nJohn: But you don't have a lot of experience in project management either!",
+    "source_article_nl": "Lola: Ik denk niet dat John geschikt is om dit project te leiden, omdat hij niet veel ervaring heeft met projectmanagement.\nJohn: Maar jij hebt ook niet veel ervaring met projectmanagement!",
+    "source_article_zh": "Lola：我认为约翰不适合管理这个项目，因为他在项目管理方面经验不足。\nJohn：但你在项目管理方面也不怎么有经验啊！"
+  },
+  {
+    "updated_label": "ad populum",
+    "source_article": "Let’s go buy the iPhone X in spite of the $999 price tag--all of our friends have one already!",
+    "source_article_nl": "Laten we de iPhone X kopen ondanks het prijskaartje van $999 – al onze vrienden hebben er al een!",
+    "source_article_zh": "咱们去買iPhone X吧，儘管價格高達999美元——我們所有的朋友都已經有了一部！"
+  },
+  {
+    "updated_label": "fallacy of credibility",
+    "source_article": "Which type of appeal is used in the following phrases from the Declaration of Independence: “appealing to the Supreme Judge of the world” and “with a firm reliance on the protection of divine providence”?",
+    "source_article_nl": "Welk type beroep wordt gebruikt in de volgende zinnen uit de Onafhankelijkheidsverklaring: “een beroep doend op de hoogste Rechter van de wereld” en “met een vast vertrouwen op de bescherming van de goddelijke voorzienigheid”?",
+    "source_article_zh": "美国独立宣言中的以下短语使用了哪种诉求方式：“向世界最高法官上诉”以及“坚定信赖神圣天意的保护”？"
+  },
+  {
+    "updated_label": "ad hominem",
+    "source_article": "Don’t believe what Alex says about global warming. Alex dropped out of college!",
+    "source_article_nl": "Geloof niet wat Alex zegt over opwarming van de aarde. Alex heeft de universiteit verlaten!",
+    "source_article_zh": "不要相信Alex关于全球变暖的说法。Alex大学辍学了！"
+  },
+  {
+    "updated_label": "ad populum",
+    "source_article": "“McDonald’s has served 100 billion people in the world. It must be the best fast food restaurant in the world\" is an example of",
+    "source_article_nl": "“McDonald's heeft 100 miljard mensen in de wereld bediend. Het moet wel het beste fastfoodrestaurant ter wereld zijn\" is een voorbeeld van",
+    "source_article_zh": "“McDonald's 已经为全世界1000亿人服务过。它一定是世界上最好的快餐店”是一个例子"
+  },
+  {
+    "updated_label": "fallacy of relevance",
+    "source_article": "The majority of students are in favor of changing the colors of the graduation gowns to a single color to not exclude those that are non-binary, but a few people complained it wasn't \"tradition\" , so let's meet in the middle and just allow students to not attend graduation if they don't want to wear the traditional black and gold.",
+    "source_article_nl": "De meerderheid van de studenten is voorstander van het veranderen van de kleuren van de afstudeertogen naar één kleur om degenen die non-binair zijn niet uit te sluiten, maar een paar mensen klaagden dat het niet \"traditie\" was, dus laten we een middenweg vinden door studenten simpelweg toe te staan niet deel te nemen aan de diploma-uitreiking als ze de traditionele zwarte en gouden toga niet willen dragen.",
+    "source_article_zh": "大多数学生赞成将毕业礼服的颜色改为单一颜色，以不排斥非二元性别者，但少数人抱怨这不符合“传统”，所以我们来折中一下，直接允许那些不想穿传统黑白金礼服的学生不参加毕业典礼。"
+  },
+  {
+    "updated_label": "fallacy of relevance",
+    "source_article": "Latin should not be taught in school since it is not spoken anywhere in the world. All learning should have some use to be of value, and a dead language has no practical use.",
+    "source_article_nl": "Latijn zou niet op school onderwezen moeten worden omdat het nergens ter wereld wordt gesproken. Alle leerstof moet enig nut hebben om van waarde te zijn, en een dode taal heeft geen praktisch nut.",
+    "source_article_zh": "拉丁文不应该在学校教授，因为它不在世界上任何地方被使用。所有学习都应该有某种用途才有价值，而一种死语言没有实际用途。"
+  },
+  {
+    "updated_label": "ad hominem",
+    "source_article": "Why would you lend money to some who looks like they don't have a job?",
+    "source_article_nl": "Waarom zou je geld lenen aan iemand die eruitziet alsof ze geen baan hebben?",
+    "source_article_zh": "你为什么要借钱给某个看起来像他们没有工作的人？"
+  },
+  {
+    "updated_label": "appeal to emotion",
+    "source_article": "If we don’t teach teens to work harder, the human race is doomed.",
+    "source_article_nl": "Als we tieners niet leren harder te werken, is de mensheid gedoemd.",
+    "source_article_zh": "如果我们不教导青少年更加努力地工作，人类就注定毁灭。"
+  },
+  {
+    "updated_label": "faulty generalization",
+    "source_article": "Don't try to tell me that you only watch educational programming, Emmy! I know for a fact that your sister only watches reality television.",
+    "source_article_nl": "Probeer me niet te vertellen dat je alleen educatieve programma's kijkt, Emmy! Ik weet zeker dat jouw zus alleen reality-tv kijkt.",
+    "source_article_zh": "别想告诉我你只看教育节目，Emmy！我确实知道你妹妹只看真人秀电视。"
+  },
+  {
+    "updated_label": "faulty generalization",
+    "source_article": "Allowing abortion in the first week of pregnancy would lead to allowing it in the ninth month",
+    "source_article_nl": "Het toestaan van abortus in de eerste week van de zwangerschap zou leiden tot het toestaan ervan in de negende maand.",
+    "source_article_zh": "允许怀孕第一周堕胎将导致允许在第九个月堕胎。"
+  },
+  {
+    "updated_label": "ad hominem",
+    "source_article": "Mr. Gough supports the cell phone ban and he's an idiot, so we should let teachers keep their cell phones.",
+    "source_article_nl": "Meneer Gough steunt het verbod op mobiele telefoons en hij is een idioot, dus we moeten leraren hun mobiele telefoons laten houden.",
+    "source_article_zh": "高夫先生支持手机禁令，而且他是个白痴，所以我们应该让老师们保留他们的手机。"
+  },
+  {
+    "updated_label": "fallacy of extension",
+    "source_article": "Teaching assistant: the homework assignment was much harder than we thought, so I think we should give a few extra points to students who completed it.\nProfessor: that’s a terrible idea. If we give everyone a perfect score for no reason, students won’t bother working hard in the future.",
+    "source_article_nl": "Assistent: \"De huiswerkopdracht was veel moeilijker dan we dachten, dus ik denk dat we een paar extra punten moeten geven aan studenten die het hebben voltooid.\"\nProfessor: \"Dat is een vreselijk idee. Als we iedereen een perfecte score geven zonder reden, zullen studenten in de toekomst niet de moeite nemen om hard te werken.\"",
+    "source_article_zh": "助教：\"这次作业比我们想的要难得多，所以我认为应该给完成了作业的学生多加几分。\"\n教授：\"这是个糟糕的主意。如果我们毫无理由地给每个人满分，学生们以后就不会努力学习了。\""
+  },
+  {
+    "updated_label": "fallacy of credibility",
+    "source_article": "The speaker or writer appeals to the audience's trust by establishing his credibility or trustworthiness as a writer or speaker?",
+    "source_article_nl": "De spreker of schrijver doet een beroep op het vertrouwen van het publiek door zijn geloofwaardigheid of betrouwbaarheid als schrijver of spreker te vestigen?",
+    "source_article_zh": "演讲者或作者通过建立自己作为作者或演讲者的可信度或可靠性来吸引听众的信任？"
+  },
+  {
+    "updated_label": "fallacy of extension",
+    "source_article": "Misrepresents the context from which a quotation is taken; putting words or ideas in people’s mouth/head; creating a “dummy” or fake or falsified argument or situation so you can attack it .\nThis is what fallacy?",
+    "source_article_nl": "Verdraait de context waaruit een citaat is genomen; woorden of ideeën in de mond/het hoofd van mensen leggen; een \"nepperd\" of neppe of vervalste argumentatie of situatie creëren zodat je die kunt aanvallen.\nWat voor drogreden is dit?",
+    "source_article_zh": "歪曲引用语的上下文；把话或想法强加于人；制造一个“稻草人”或虚假、伪造的论点或情境以便攻击它。\n这是什么谬误？"
+  },
+  {
+    "updated_label": "faulty generalization",
+    "source_article": "\"Flight attendants are the nicest people. I should know—I’ve taken two flights.\"",
+    "source_article_nl": "Stewardessen zijn de aardigste mensen. Ik zou het moeten weten—ik heb twee vluchten genomen.",
+    "source_article_zh": "空乘人员是最好的人。我应该知道——我坐过两次航班。"
+  },
+  {
+    "updated_label": "appeal to emotion",
+    "source_article": "If you don’t give me a passing grade, I won’t get accepted to medical school. That will break my grandmother’s heart.",
+    "source_article_nl": "Als je me geen voldoende geeft, word ik niet toegelaten tot de medische school. Dat zal het hart van mijn grootmoeder breken.",
+    "source_article_zh": "如果你不给我及格分数，我就不会被医学院录取。那会伤了我祖母的心。"
+  },
+  {
+    "updated_label": "appeal to emotion",
+    "source_article": "You should certainly be the one who washes the dishes -- you are just so good at it!",
+    "source_article_nl": "Jij zou zeker degene moeten zijn die de afwas doet — je bent er gewoon zo goed in!",
+    "source_article_zh": "你当然应该是洗碗的那个人——你太擅长这个了！"
+  },
+  {
+    "updated_label": "fallacy of logic",
+    "source_article": "Julie was trying to demonstrate to the audience of her speech that gender inequality is like ordering fast food. \"It's not good for us,\" she said, \"but we do it all the time and men tend to go out for a burger and fries more than women do.\"\nWhat fallacy is this?",
+    "source_article_nl": "Julie probeerde haar publiek tijdens haar toespraak duidelijk te maken dat genderongelijkheid is zoals fastfood bestellen. \"Het is niet goed voor ons,\" zei ze, \"maar we doen het de hele tijd en mannen gaan vaker dan vrouwen uit voor een burger en friet.\"\nWelke drogreden is dit?",
+    "source_article_zh": "朱莉试图向她的演讲听众说明性别不平等就像点快餐一样。\"这对我们不好，\"她说，\"但我们一直这么做，而且男性比女性更常出去吃汉堡和薯条。\"这是什么谬误？"
+  },
+  {
+    "updated_label": "false causality",
+    "source_article": "Giving 10% of your income to the Church will free a child’s soul from Limbo into Heaven, so give your money!",
+    "source_article_nl": "Het geven van 10% van je inkomen aan de Kerk zal de ziel van een kind uit het Voorgeborchte naar de Hemel bevrijden, dus geef je geld!",
+    "source_article_zh": "将您收入的10%捐给教会，就能将孩子的灵魂从灵薄狱解放到天堂，所以请捐出您的钱！"
+  },
+  {
+    "updated_label": "faulty generalization",
+    "source_article": "It is warmer this year in Las Vegas as compared to last year; therefore, global warming is rapidly accelerating.",
+    "source_article_nl": "Het is dit jaar warmer in Las Vegas vergeleken met vorig jaar; daarom versnelt de opwarming van de aarde snel.",
+    "source_article_zh": "今年拉斯维加斯比去年更暖和；因此，全球变暖正在迅速加剧。"
+  },
+  {
+    "updated_label": "ad populum",
+    "source_article": "If everyone believes it, you should too!",
+    "source_article_nl": "Als iedereen het gelooft, zou jij het ook moeten doen!",
+    "source_article_zh": "如果每个人都相信它，你也应该相信！"
+  },
+  {
+    "updated_label": "faulty generalization",
+    "source_article": "\"If we ban Hummers because they are bad for the environment eventually the government will ban all cars, so we should not ban Hummers.\"",
+    "source_article_nl": "Als we Hummers verbieden omdat ze slecht zijn voor het milieu, zal de regering uiteindelijk alle auto's verbieden, dus we moeten Hummers niet verbieden.",
+    "source_article_zh": "如果我们因为悍马对环境有害而禁止它们，最终政府会禁止所有汽车，所以我们不应该禁止悍马。"
+  },
+  {
+    "updated_label": "ad populum",
+    "source_article": "iPhones are the best phone because everyone has them.",
+    "source_article_nl": "iPhones zijn de beste telefoon omdat iedereen ze heeft.",
+    "source_article_zh": "iPhones是最好的手机，因为每个人都有它们。"
+  },
+  {
+    "updated_label": "fallacy of relevance",
+    "source_article": "We must eliminate affirmative action. We can’t rely on laws to end racial prejudice.",
+    "source_article_nl": "We moeten positieve discriminatie afschaffen. We kunnen niet vertrouwen op wetten om raciale vooroordelen te beëindigen.",
+    "source_article_zh": "我们必须废除平权行动。我们不能依靠法律来结束种族偏见。"
+  },
+  {
+    "updated_label": "false causality",
+    "source_article": "The economy grows as the number of likes on my Instagram account continue to increase. Clearly, the two are linked.",
+    "source_article_nl": "De economie groeit naarmate het aantal likes op mijn Instagram-account blijft toenemen. Duidelijk, de twee zijn verbonden.",
+    "source_article_zh": "经济随着我的Instagram账户上的点赞数持续增加而增长。显然，这两者是关联的。"
+  },
+  {
+    "updated_label": "fallacy of relevance",
+    "source_article": "When your mom gets your phone bill and you have gone over the limit, you begin talking to her about how hard your math class is and how well you did on a test today.",
+    "source_article_nl": "Wanneer je moeder je telefoonrekening krijgt en je over de limiet bent gegaan, begin je met haar te praten over hoe moeilijk je wiskundeles is en hoe goed je vandaag een toets hebt gemaakt.",
+    "source_article_zh": "当你妈妈收到你的电话账单并且你已经超限时，你开始跟她谈论你的数学课有多难以及你今天考试考得多好。"
+  },
+  {
+    "updated_label": "fallacy of extension",
+    "source_article": "The Senator thinks we can solve all our ecological problems by driving a Prius.",
+    "source_article_nl": "De senator denkt dat we al onze ecologische problemen kunnen oplossen door een Prius te rijden.",
+    "source_article_zh": "那位参议员认为我们开普锐斯就能解决所有生态问题。"
+  },
+  {
+    "updated_label": "circular reasoning",
+    "source_article": "The president of Honduras is a good leader because he is a leader of the country. This is an example of which common fallacy?",
+    "source_article_nl": "De president van Honduras is een goede leider omdat hij een leider van het land is. Dit is een voorbeeld van welke veelvoorkomende drogreden?",
+    "source_article_zh": "洪都拉斯总统是一位好领导人，因为他是这个国家的领导人。这是哪种常见谬误的例子？"
+  },
+  {
+    "updated_label": "fallacy of relevance",
+    "source_article": "Jimmy stole Tommy’s lunch in the past.\nTherefore, it is acceptable for Tommy to steal Jimmy’s lunch today.",
+    "source_article_nl": "Jimmy heeft in het verleden Tommy's lunch gestolen. Daarom is het aanvaardbaar dat Tommy vandaag Jimmy's lunch steelt.",
+    "source_article_zh": "吉米在过去偷了汤米的午餐。因此，汤米今天偷吉米的午餐是可以接受的。"
+  },
+  {
+    "updated_label": "false dilemma",
+    "source_article": "At a recent cocktail party, the conversation has turned to family pets, and your friend asks you “Are you a cat or a dog person?\"",
+    "source_article_nl": "Op een recent cocktailfeestje is het gesprek op huisdieren gekomen, en je vriend vraagt je: “Ben je een katten- of een hondenmens?”",
+    "source_article_zh": "在最近的一个鸡尾酒会上，话题转到了家庭宠物，你的朋友问你：“你是爱猫的人还是爱狗的人？”"
+  },
+  {
+    "updated_label": "ad populum",
+    "source_article": "Cheesecake Factory is the best because it is always crowded",
+    "source_article_nl": "Cheesecake Factory is de beste omdat het altijd druk is.",
+    "source_article_zh": "Cheesecake Factory是最好的，因为它总是很拥挤。"
+  },
+  {
+    "updated_label": "appeal to emotion",
+    "source_article": "I really deserve an “A” on this paper, professor.  Not only did I study during my grandmother’s funeral, but I also passed up the heart transplant surgery, even though that was the first matching donor in 3 years.",
+    "source_article_nl": "Ik verdien echt een \"A\" voor dit paper, professor. Niet alleen heb ik gestudeerd tijdens de begrafenis van mijn grootmoeder, maar ik heb ook de harttransplantatie-operatie overgeslagen, ook al was dat de eerste passende donor in 3 jaar.",
+    "source_article_zh": "教授，我真的应该在这篇论文上得一个“A”。我不仅在我祖母的葬礼上学习，而且我还放弃了心脏移植手术，尽管那是三年来第一个匹配的捐赠者。"
+  },
+  {
+    "updated_label": "ad hominem",
+    "source_article": "Bill says Jenny would make a good class president, but Bill makes bad grades, so we shouldn’t vote for Jenny.",
+    "source_article_nl": "Bill zegt dat Jenny een goede klassenvertegenwoordiger zou zijn, maar Bill heeft slechte cijfers, dus we moeten niet op Jenny stemmen.",
+    "source_article_zh": "比尔说珍妮会成为好的班长，但是比尔成绩不好，所以我们不应该投票给珍妮。"
+  },
+  {
+    "updated_label": "faulty generalization",
+    "source_article": "On my walk to work this morning, a woman on her bike nearly ran me off the sidewalk. I hadn't realized that cyclists were so aggressive and rude!",
+    "source_article_nl": "Op mijn wandeling naar het werk vanochtend, reed een vrouw op haar fiets me bijna van de stoep. Ik had niet beseft dat fietsers zo agressief en onbeschoft waren!",
+    "source_article_zh": "今天早上我走路去上班的时候，一个骑自行车的女人差点把我从人行道上撞下去。我还没意识到骑自行车的人竟然如此咄咄逼人和粗鲁无礼！"
+  },
+  {
+    "updated_label": "faulty generalization",
+    "source_article": "French people are great at kissing.  Julie is French.  Get me a date!",
+    "source_article_nl": "Franse mensen zijn geweldig in zoenen. Julie is Frans. Regel een afspraakje voor me!",
+    "source_article_zh": "法国人很会接吻。朱莉是法国人。给我约个会！"
+  },
+  {
+    "updated_label": "circular reasoning",
+    "source_article": "Smoking pot is against the law because it is wrong; I know it is wrong because it is against the law",
+    "source_article_nl": "Het roken van wiet is tegen de wet omdat het verkeerd is; ik weet dat het verkeerd is omdat het tegen de wet is.",
+    "source_article_zh": "吸大麻是违法的，因为它是错误的；我知道它是错误的，因为它是违法的。"
+  },
+  {
+    "updated_label": "fallacy of relevance",
+    "source_article": "I don't see how you can believe he is not guilty of that crime. He's a terrible person and I can prove it. In fact, several years ago he was convicted of that same kind of crime.",
+    "source_article_nl": "Ik zie niet hoe je kunt geloven dat hij niet schuldig is aan die misdaad. Hij is een vreselijk persoon en ik kan het bewijzen. Sterker nog, enkele jaren geleden werd hij veroordeeld voor hetzelfde soort misdaad.",
+    "source_article_zh": "我不明白你怎么能相信他无罪。他是个很糟糕的人，我可以证明。事实上，几年前他就因同种罪行被定罪。"
+  },
+  {
+    "updated_label": "fallacy of extension",
+    "source_article": "My opponent is trying to convince you that we evolved from monkeys who were swinging from trees; a truly ludicrous claim.",
+    "source_article_nl": "Mijn tegenstander probeert u ervan te overtuigen dat we afstammen van apen die in bomen slingerden; een werkelijk belachelijke bewering.",
+    "source_article_zh": "我的对手试图让你相信我们是从树上荡来荡去的猴子进化而来的；一个非常荒谬的说法。"
+  },
+  {
+    "updated_label": "appeal to emotion",
+    "source_article": "In the race for mayor, Lara says a vote for her opponent will lead to you losing your job. What fallacy has she committed?",
+    "source_article_nl": "In de race voor het burgemeesterschap beweert Lara dat een stem op haar tegenstander tot het verlies van je baan zal leiden. Welke drogreden heeft zij gebruikt?",
+    "source_article_zh": "在市长竞选中，拉拉说投票给她的对手会导致你失业。她犯了什么逻辑谬误？"
+  },
+  {
+    "updated_label": "equivocation",
+    "source_article": "Historians agree that studying the past is the best way to avoid repeating mistakes.",
+    "source_article_nl": "Historici zijn het erover eens dat het bestuderen van het verleden de beste manier is om herhaling van fouten te voorkomen.",
+    "source_article_zh": "历史学家一致认为，研究过去是避免重蹈覆辙的最佳方式。"
+  },
+  {
+    "updated_label": "ad populum",
+    "source_article": "This type of ad taps into a person's desire to be part of a group.",
+    "source_article_nl": "Dit type advertentie speelt in op het verlangen van een persoon om deel uit te maken van een groep.",
+    "source_article_zh": "这种广告利用了人们想要成为群体一部分的愿望。"
+  },
+  {
+    "updated_label": "faulty generalization",
+    "source_article": "Four out of five dentists recommend Happy Glossy Smiley toothpaste brand. Therefore, it must be great.",
+    "source_article_nl": "Vier op de vijf tandartsen raden het merk Happy Glossy Smiley tandpasta aan. Daarom moet het geweldig zijn.",
+    "source_article_zh": "五分之四的牙医推荐Happy Glossy Smiley牙膏品牌。因此，它一定很棒。"
+  },
+  {
+    "updated_label": "faulty generalization",
+    "source_article": "If I go to the bathroom, I will miss the notes, then I'll do poorly on a test, then I won't get into college, so I won't go to the bathroom.",
+    "source_article_nl": "Als ik naar de wc ga, mis ik de aantekeningen, dan presteer ik slecht op een toets, dan word ik niet toegelaten tot de universiteit, dus ga ik niet naar de wc.",
+    "source_article_zh": "如果我去上厕所，我就会错过笔记，然后考试考不好，接着就上不了大学，所以我就不去上厕所了。"
+  },
+  {
+    "updated_label": "faulty generalization",
+    "source_article": "One cigarette will lead youth to addiction",
+    "source_article_nl": "Eén sigaret zal de jeugd tot verslaving leiden",
+    "source_article_zh": "一支香烟将导致青少年上瘾"
+  },
+  {
+    "updated_label": "faulty generalization",
+    "source_article": "If the government allows psychologists to prescribe medications there will be no basis to block them from obtaining competence and legal authority to conduct other traditionally medical procedures such as diagnosing minor skin irritations, treating a sprained ankle, setting a broken bone, and performing neurosurgery.\" Or: \"Never reduce a fee for any patient for any reason or else you'll find yourself constantly reducing fees for everyone, everyone will take advantage of you, your patients will lose respect for you and for therapy, and you'll loose money and go bankrupt.",
+    "source_article_nl": "Als de overheid psychologen toestaat medicijnen voor te schrijven, is er geen basis om hen te beletten bekwaamheid en wettelijke autoriteit te verwerven om andere traditioneel medische procedures uit te voeren, zoals het diagnosticeren van lichte huidirritaties, het behandelen van een verstuikte enkel, het zetten van een gebroken bot en het uitvoeren van neurochirurgie.\" Of: \"Verlaag nooit het tarief voor een patiënt om welke reden dan ook, anders zul je constant tarieven voor iedereen moeten verlagen, iedereen zal misbruik van je maken, je patiënten zullen respect voor jou en voor therapie verliezen, en je zult geld verliezen en failliet gaan.",
+    "source_article_zh": "如果政府允许心理学家开具药物处方，就没有理由阻止他们获得能力与法律授权来执行其他传统医学程序，例如诊断轻微的皮肤刺激、治疗脚踝扭伤、接骨和进行神经外科手术。\" 或者：\"永远不要以任何理由降低任何患者的费用，否则你会发现自己不断地为每个人降低费用，每个人都会利用你，你的患者会失去对你和治疗师的尊重，你会亏钱并破产。"
+  },
+  {
+    "updated_label": "ad hominem",
+    "source_article": "Helga: You should not be eating that... it has been scientifically proven that eating fat burgers are no good for your health.\nHugh: You eat fat burgers all the time so that can’t be true.",
+    "source_article_nl": "Helga: Je zou dat niet moeten eten... het is wetenschappelijk bewezen dat het eten van vette burgers niet goed is voor je gezondheid.\nHugh: Jij eet de hele tijd vette burgers, dus dat kan niet waar zijn.",
+    "source_article_zh": "Helga: 你不应该吃那个……科学研究已经证明，吃肥腻的汉堡对健康不好。\nHugh: 你一直都在吃肥腻的汉堡，所以那不可能是真的。"
+  },
+  {
+    "updated_label": "faulty generalization",
+    "source_article": "The meteorologist predicted the wrong amount of rain for May. Obviously the meteorologist is unreliable.",
+    "source_article_nl": "De meteoroloog heeft de verkeerde hoeveelheid regen voor mei voorspeld. Vanzelfsprekend is de meteoroloog onbetrouwbaar.",
+    "source_article_zh": "气象学家预测了五月的降雨量错误。显然这位气象学家是不可靠的。"
+  },
+  {
+    "updated_label": "appeal to emotion",
+    "source_article": "Thousands of pets are left homeless and hungry because lousy people turn them out on the streets instead of taking care of them.",
+    "source_article_nl": "Duizenden huisdieren worden dakloos en hongerig achtergelaten omdat slechte mensen ze de straat op sturen in plaats van voor ze te zorgen.",
+    "source_article_zh": "成千上万的宠物无家可归、饥肠辘辘，因为不负责任的人将它们赶到大街上，而不是照顾它们。"
+  },
+  {
+    "updated_label": "ad populum",
+    "source_article": "Everyone already believes that the defendant killed her husband, and that many people can't be wrong.",
+    "source_article_nl": "Iedereen gelooft al dat de verdachte haar man heeft vermoord, en dat veel mensen zich niet kunnen vergissen.",
+    "source_article_zh": "每个人都相信被告杀了她的丈夫，而且很多人不可能都错了。"
+  },
+  {
+    "updated_label": "fallacy of relevance",
+    "source_article": "Violent video games are directly related to gun violence in schools and should be banned for teens. The school day should start an hour later.",
+    "source_article_nl": "Gewelddadige videogames zijn direct gerelateerd aan wapengeweld op scholen en moeten voor tieners worden verboden. De schooldag zou een uur later moeten beginnen.",
+    "source_article_zh": "暴力电子游戏与校园枪击暴力直接相关，应该禁止青少年玩。上学时间应该推迟一小时。"
+  },
+  {
+    "updated_label": "ad populum",
+    "source_article": "\"everyone is doing it\" mentality",
+    "source_article_nl": "\"iedereen doet het\" mentaliteit",
+    "source_article_zh": "\"大家都在做\" 的心态"
+  },
+  {
+    "updated_label": "false causality",
+    "source_article": "Global chocolate consumption is highest in Switzerland, yet people there are among the trimmest in the industrialized world.  therefore, it's reasonable to conclude that chocolate helps keep your weight down.",
+    "source_article_nl": "De wereldwijde chocoladeconsumptie is het hoogst in Zwitserland, maar de mensen daar zijn onder de slanksten in de geïndustrialiseerde wereld. Daarom is het redelijk om te concluderen dat chocolade helpt om je gewicht laag te houden.",
+    "source_article_zh": "全球巧克力消费量最高的是瑞士，然而那里的人们却是工业化世界中最苗条的之一。因此，有理由认为巧克力有助于控制体重。"
+  },
+  {
+    "updated_label": "ad hominem",
+    "source_article": "Accused on the 6 o'clock news of corruption and taking bribes, the senator said that we should all be very wary of the things we hear in the media, because we all know how very unreliable the media can be.",
+    "source_article_nl": "Beschuldigd op het 6 uur journaal van corruptie en het aannemen van steekpenningen, zei de senator dat we allemaal heel voorzichtig moeten zijn met de dingen die we in de media horen, omdat we allemaal weten hoe onbetrouwbaar de media kunnen zijn.",
+    "source_article_zh": "在六点钟新闻中被指控腐败和受贿，参议员表示我们都应该对我们在媒体上听到的事情非常警惕，因为我们都知道媒体是多么不可靠。"
+  },
+  {
+    "updated_label": "ad populum",
+    "source_article": ", that it must be true",
+    "source_article_nl": ", dat het waar moet zijn",
+    "source_article_zh": "，那一定是真的"
+  },
+  {
+    "updated_label": "faulty generalization",
+    "source_article": "\"I am torn between studying for the quiz or not. But, I know that if I don't study for the quiz, I will fail. If I fail the quiz, I get a D in the class. If I get a D, it will lower my GPA. If my GPA lowers, I can't play football. If I can't play football, I don't get a scholarship. No scholarship, no college. No college, no life!\"",
+    "source_article_nl": "\"Ik ben verscheurd tussen studeren voor de quiz of niet. Maar ik weet dat als ik niet studeer voor de quiz, ik ga zakken. Als ik de quiz zak, krijg ik een onvoldoende voor het vak. Als ik een onvoldoende krijg, zakt mijn GPA. Als mijn GPA zakt, mag ik niet voetballen. Als ik niet mag voetballen, krijg ik geen studiebeurs. Geen studiebeurs, geen universiteit. Geen universiteit, geen leven!\"",
+    "source_article_zh": "\"我在为要不要为小测学习而左右为难。但是，我知道如果我不为小测学习，就会不及格。如果小测不及格，我这门课就得D。如果得D，我的GPA就会降低。如果GPA降低，我就不能踢足球。如果不能踢足球，我就拿不到奖学金。没有奖学金，就没有大学。没有大学，就没有人生！\""
+  },
+  {
+    "updated_label": "ad populum",
+    "source_article": "\"Certainly this is the case at most colleges in America nowadays\"",
+    "source_article_nl": "Zeker is dit het geval bij de meeste hogescholen in Amerika tegenwoordig",
+    "source_article_zh": "当然，如今在美国的大部分大学里情况正是如此"
+  },
+  {
+    "updated_label": "fallacy of credibility",
+    "source_article": "In a study designed by a famous academic to test the effects of pleasant imagery on motivation, employees were shown images of baby animals and beautiful nature scenes for their first five minutes at work.\n\nAmazingly, results showed a 10 percent leap in profits in the first quarter and record earnings over the course of a year. So, showing employees pleasant images is a great way to increase their motivation and improve productivity",
+    "source_article_nl": "In een onderzoek dat is opgezet door een beroemde academicus om de effecten van aangename beelden op motivatie te testen, werden werknemers gedurende de eerste vijf minuten van hun werkdag afbeeldingen van babydieren en prachtige natuursènes getoond.\n\nVerrassend genoeg lieten de resultaten een sprong van 10 procent in de winst in het eerste kwartaal zien en recordinkomsten in de loop van een jaar. Dus het tonen van aangename afbeeldingen aan werknemers is een geweldige manier om hun motivatie te verhogen en de productiviteit te verbeteren.",
+    "source_article_zh": "在一项由一位知名学者设计的测试愉快意象对动力的影响的研究中，员工们在工作的前五分钟被展示了小动物和美丽自然风景的图片。\n\n惊人的是，结果显示第一季度利润增长了10%，并且在一年内实现了创纪录的收益。因此，向员工展示愉快的图片是提高他们的动力和改善生产率的绝佳方式。"
+  },
+  {
+    "updated_label": "ad populum",
+    "source_article": "Stating that something should be done (or agreed to) because everyone else thinks this way.",
+    "source_article_nl": "Stellen dat iets gedaan (of overeengekomen) moet worden omdat iedereen er zo over denkt.",
+    "source_article_zh": "声称某件事应该被做（或同意）因为其他所有人都这么认为。"
+  },
+  {
+    "updated_label": "fallacy of extension",
+    "source_article": "Rick: I need to know if we should stop for lunch or not.  You are either hungry or not hungry, which is it?\n\nTina: If being hungry is being able to eat, I am always hungry.\n",
+    "source_article_nl": "Rick: Ik moet weten of we moeten stoppen voor lunch of niet. Je hebt ofwel honger of geen honger, wat is het?\n\nTina: Als honger hebben betekent dat je kunt eten, dan heb ik altijd honger.",
+    "source_article_zh": "Rick: 我需要知道我们是否应该停下来吃午饭。你要么饿，要么不饿，到底是哪个？\n\nTina: 如果饿就是能吃，那我一直都很饿。"
+  },
+  {
+    "updated_label": "fallacy of credibility",
+    "source_article": "Ross Geller, an evolutionary biologist and perhaps the foremost expert in the field, says that evolution is true. Therefore, it's true.",
+    "source_article_nl": "Ross Geller, een evolutionair bioloog en misschien wel de vooraanstaandste expert op dit gebied, zegt dat evolutie waar is. Daarom is het waar.",
+    "source_article_zh": "罗斯·盖勒，一位进化生物学家，也许还是该领域最顶尖的专家，说进化论是正确的。因此，它是正确的。"
+  },
+  {
+    "updated_label": "ad hominem",
+    "source_article": ", rather than considering the content of what the person is saying?",
+    "source_article_nl": ", in plaats van de inhoud te overwegen van wat de persoon zegt?",
+    "source_article_zh": ", 而不是考虑这个人所说的内容？"
+  },
+  {
+    "updated_label": "fallacy of relevance",
+    "source_article": "It is ridiculous to have spent thousands of dollars to rescue two whales trapped in the ice. Why, look at all the people trapped in jobs they don't like.",
+    "source_article_nl": "Het is belachelijk om duizenden dollars te hebben uitgegeven om twee walvissen te redden die vastzaten in het ijs. Waarom, kijk naar al die mensen die vastzitten in banen die ze niet leuk vinden.",
+    "source_article_zh": "花费数千美元去拯救两只困在冰中的鲸鱼是荒谬的。哎呀，看看所有那些被困在他们不喜欢的工作中的人。"
+  },
+  {
+    "updated_label": "ad hominem",
+    "source_article": "\"You are clearly just too young to understand this issue!\"",
+    "source_article_nl": "Je bent duidelijk gewoon te jong om dit onderwerp te begrijpen!",
+    "source_article_zh": "你顯然只是太年輕，無法理解這個問題！"
+  },
+  {
+    "updated_label": "ad populum",
+    "source_article": "Everyone is buying the new iPhone that’s coming out this weekend. You have to buy it too",
+    "source_article_nl": "Iedereen koopt de nieuwe iPhone die dit weekend uitkomt. Jij moet hem ook kopen.",
+    "source_article_zh": "每个人都在购买这个周末即将上市的新iPhone。你也必须买它。"
+  },
+  {
+    "updated_label": "false dilemma",
+    "source_article": "We can either agree with Barbara's plan or just let the project fail. There is no other option.",
+    "source_article_nl": "We kunnen óf akkoord gaan met Barbara's plan óf het project laten mislukken. Er is geen andere optie.",
+    "source_article_zh": "我们要么同意芭芭拉的计划，要么就让项目失败。没有其他选择。"
+  },
+  {
+    "updated_label": "faulty generalization",
+    "source_article": "He has smoked cigarettes his entire life and he doesn't have lung cancer. Therefore smoking doesn't cause lung cancer.",
+    "source_article_nl": "Hij heeft zijn hele leven sigaretten gerookt en hij heeft geen longkanker. Daarom veroorzaakt roken geen longkanker.",
+    "source_article_zh": "他一生都在抽烟，却没有得肺癌。因此，吸烟不会导致肺癌。"
+  },
+  {
+    "updated_label": "false causality",
+    "source_article": "Un pleasant idea of vegan diet\n\nThere is strong movement from people who choose not to consume meat, and their reasons vary from the healthiness to the effort of making the body looks appropriate or ideal. This is a rather ludicrous idea.\nHuman beings have been consuming meat since thousands of years and counting. There are no cases when consuming meat causing severe problems, provided meat is consumed in appropriate amount, for everyone. Many say that being a vegan means having a healthier, stronger body and mind. Actualy, according to studies, our bodies are perfectly capable of digesting, absorbing and making full use of the many beneficial nutrients found in animal foods. Thus, there is no health reason to completely avoid animal foods.\nDon’t put unnecessary restrain on yourselves. You should enjoy life to the fullest; give your best in any possible situations, as well as consuming meat.\n\nWhat is the claims from the text above?",
+    "source_article_nl": "Een onplezierig idee van veganistisch dieet\n\nEr is een sterke beweging van mensen die ervoor kiezen geen vlees te consumeren, en hun redenen variëren van gezondheid tot de inspanning om het lichaam er geschikt of ideaal uit te laten zien. Dit is een nogal belachelijk idee.\nMensen consumeren al duizenden jaren vlees en nog steeds. Er zijn geen gevallen waarin vleesconsumptie ernstige problemen veroorzaakt, mits vlees in de juiste hoeveelheid wordt geconsumeerd, voor iedereen. Velen zeggen dat veganist zijn een gezonder, sterker lichaam en geest betekent. In werkelijkheid, volgens studies, zijn onze lichamen perfect in staat om de vele heilzame voedingsstoffen in dierlijke voedingsmiddelen te verteren, absorberen en volledig te benutten. Er is dus geen gezondheidsreden om dierlijke voedingsmiddelen volledig te vermijden.\nLeg uzelf geen onnodige beperkingen op. U zou het leven ten volle moeten genieten; geef uw best in alle mogelijke situaties, en consumeer ook vlees.",
+    "source_article_zh": "一个不愉快的纯素食饮食想法\n\n有一群人选择不食用肉类，他们的原因从健康到让身体看起来合适或理想的努力各不相同。这是一个相当荒谬的想法。\n人类已经食用肉类数千年之久。没有案例显示食用肉类会导致严重问题，前提是每个人适量食用肉类。许多人说成为纯素食者意味着拥有更健康、更强壮的身体和心灵。实际上，根据研究，我们的身体完全能够消化、吸收并充分利用动物性食品中的许多有益营养素。因此，完全没有健康理由完全避免动物性食品。\n不要对自己施加不必要的限制。你应该尽情享受生活，在任何可能的情况下尽力而为，同时也要食用肉类。"
+  },
+  {
+    "updated_label": "ad hominem",
+    "source_article": "Students who want cell phones in school have no idea what they're talking about.",
+    "source_article_nl": "Studenten die mobiele telefoons op school willen, hebben geen idee waar ze het over hebben.",
+    "source_article_zh": "想要在学校里使用手机的学生根本不知道自己在说什么。"
+  },
+  {
+    "updated_label": "faulty generalization",
+    "source_article": "Lindsay's mom is concerned when she finds out that Lindsay skipped class one day. She tells Lindsay that she will now start skipping more frequently. Then she will drop out altogether, never graduate or get into college, and end up unemployed and living at home for the rest of her life.\nWhat type of fallacy has Lindsay's mom committed?",
+    "source_article_nl": "Lindsay's moeder maakt zich zorgen als ze erachter komt dat Lindsay op een dag heeft gespijbeld. Ze zegt tegen Lindsay dat ze nu vaker zal gaan spijbelen. Dan zal ze helemaal stoppen met school, nooit afstuderen of naar de universiteit gaan, en uiteindelijk werkloos zijn en de rest van haar leven thuis wonen.\nWat voor soort drogreden heeft Lindsay's moeder begaan?",
+    "source_article_zh": "Lindsay的妈妈发现Lindsay有一天逃课后感到很担心。她告诉Lindsay，现在她会开始更频繁地逃课。然后她会彻底辍学，永远无法毕业或上大学，最终失业并余生都住在家里。\nLindsay的妈妈犯了哪种逻辑谬误？"
+  },
+  {
+    "updated_label": "intentional",
+    "source_article": "The Tooth Fairy is real because nobody has proven she doesn't exist.' This is an example of which fallacy?",
+    "source_article_nl": "\"De Tandenfee is echt omdat niemand heeft bewezen dat ze niet bestaat.' Dit is een voorbeeld van welke drogreden?\"",
+    "source_article_zh": "\"牙仙是真的，因为没有人证明她不存在。’这是一个什么逻辑谬误的例子？\""
+  },
+  {
+    "updated_label": "appeal to emotion",
+    "source_article": "“A bank with the heart for every Filipino” - Veterans Bank",
+    "source_article_nl": "“Een bank met het hart voor elke Filipijn” - Veterans Bank",
+    "source_article_zh": "“拥有一颗为每个菲律宾人着想的心” - 退伍军人银行"
+  },
+  {
+    "updated_label": "equivocation",
+    "source_article": "I don't understand why you're saying I broke a promise. I said I'd never speak to my ex-girlfriend again. And I didn't. I just sent her some pictures and text messages.",
+    "source_article_nl": "Ik begrijp niet waarom je zegt dat ik een belofte heb gebroken. Ik zei dat ik nooit meer met mijn ex-vriendin zou praten. En dat heb ik niet gedaan. Ik heb haar alleen maar wat foto's en sms'jes gestuurd.",
+    "source_article_zh": "我不明白为什么你说我违背了诺言。我说过我绝不会再和前女友说话。我没有说话。我只是发了一些照片和短信给她。"
+  },
+  {
+    "updated_label": "ad hominem",
+    "source_article": "We can't believe what he says out of that ugly mouth of his.",
+    "source_article_nl": "We kunnen niet geloven wat hij zegt uit die lelijke mond van hem.",
+    "source_article_zh": "我们无法相信从他那张丑陋的嘴里说出的话。"
+  },
+  {
+    "updated_label": "faulty generalization",
+    "source_article": "“My roommate Fatima said her philosophy class was hard, and the one I’m in is hard, too. All philosophy classes must be hard!” Insisted Baneen.",
+    "source_article_nl": "“Mijn kamergenoot Fatima zei dat haar filosofieles moeilijk was, en die van mij is ook moeilijk. Alle filosofielessen moeten wel moeilijk zijn!” hield Baneen vol.",
+    "source_article_zh": "“我的室友法蒂玛说她的哲学课很难，我上的那门也很难。所有的哲学课一定都很难！”巴宁坚持说。"
+  },
+  {
+    "updated_label": "appeal to emotion",
+    "source_article": "There must be objective rights and wrongs in the universe.  If not, how can you possibly say that torturing babies for fun could ever be right?",
+    "source_article_nl": "Er moeten objectieve juistheden en onjuistheden in het universum bestaan. Zo niet, hoe kun je mogelijk zeggen dat het martelen van baby's voor de lol ooit juist kan zijn?",
+    "source_article_zh": "世界上必须存在客观的对与错。否则，你怎么可能说为了好玩而折磨婴儿永远是正确的呢？"
+  },
+  {
+    "updated_label": "intentional",
+    "source_article": "Only asking 5 people their opinion about Christian Heritage and saying their opinions are the \"majority\" of people.",
+    "source_article_nl": "Slechts vijf mensen vragen naar hun mening over het Christelijk Erfgoed en dan zeggen dat hun meningen de \"meerderheid\" van de mensen zijn.",
+    "source_article_zh": "只问了5个人关于基督教遗产的看法，就说他们的观点是“大多数”人的观点。"
+  },
+  {
+    "updated_label": "appeal to emotion",
+    "source_article": "Children should not go trick or treating, as there always\nexists the possibility that someone could poison the treats.",
+    "source_article_nl": "Kinderen zouden niet moeten trick-or-treaten, aangezien er altijd de mogelijkheid bestaat dat iemand de traktaties vergiftigt.",
+    "source_article_zh": "儿童不应去玩不给糖就捣蛋的游戏，因为总是存在有人可能在糖果中下毒的可能性。"
+  },
+  {
+    "updated_label": "faulty generalization",
+    "source_article": "All of those who hate the Duterte administration are CPP-NPA supporters.",
+    "source_article_nl": "Allen die de Duterte-regering haten, zijn CPP-NPA-aanhangers.",
+    "source_article_zh": "所有憎恨杜特尔特政府的人都是菲共-新人民军的支持者。"
+  },
+  {
+    "updated_label": "fallacy of logic",
+    "source_article": "If this test were based on fraudulent norms, then it would be invalid. But the norms are not fraudulent. Therefore, this test is valid.",
+    "source_article_nl": "Als deze test gebaseerd zou zijn op frauduleuze normen, dan zou hij ongeldig zijn. Maar de normen zijn niet frauduleus. Daarom is deze test geldig.",
+    "source_article_zh": "如果这个测试是基于欺诈性标准，那么它就是无效的。但标准不是欺诈性的。因此，这个测试是有效的。"
+  },
+  {
+    "updated_label": "circular reasoning",
+    "source_article": "She is good at writing because she writes words effectively.\"",
+    "source_article_nl": "Ze is goed in schrijven omdat ze woorden effectief schrijft.",
+    "source_article_zh": "她擅长写作，因为她有效地写词语。"
+  },
+  {
+    "updated_label": "appeal to emotion",
+    "source_article": "Evolution cannot be true. If it were true, we’d all be smelly apes.",
+    "source_article_nl": "Evolutie kan niet waar zijn. Als het waar was, zouden we allemaal stinkende apen zijn.",
+    "source_article_zh": "进化不可能是真的。如果是真的，我们就都是臭猿猴。"
+  },
+  {
+    "updated_label": "appeal to emotion",
+    "source_article": "company's slogan \"Eat Fresh.\"",
+    "source_article_nl": "de slogan van het bedrijf \"Eet Vers.\"",
+    "source_article_zh": "公司的口号“吃新鲜。”"
+  },
+  {
+    "updated_label": "fallacy of relevance",
+    "source_article": "Some of you have objected to the new test batteries that were purchased for our program, alleging that they have no demonstrable validity, were not adequately normed for the kind of clients we see, and are unusable for clients who are physically disabled. What you have conveniently failed to mention, however, is that they cost less than a third of the price for the other tests we had been using, are much easier to learn, and can be administered and scored in less than half the time of the tests we used to use.",
+    "source_article_nl": "Sommigen van u hebben bezwaar gemaakt tegen de nieuwe testbatterijen die voor ons programma zijn aangeschaft, met het argument dat ze geen aantoonbare validiteit hebben, niet adequaat genormeerd zijn voor het soort cliënten dat wij zien, en onbruikbaar zijn voor cliënten met een lichamelijke beperking. Wat u echter gemakshalve niet heeft vermeld, is dat ze minder dan een derde kosten van de andere tests die we eerder gebruikten, veel gemakkelijker te leren zijn, en in minder dan de helft van de tijd van de tests die we vroeger gebruikten kunnen worden afgenomen en gescoord.",
+    "source_article_zh": "你们中的一些人反对为我们的项目购买的新测试套件，声称它们没有可证明的有效性，没有针对我们所见客户类型进行充分标准化，并且对于身体残疾的客户无法使用。然而，你们却 conveniently 没有提到的是，它们的价格不到我们之前使用的其他测试的三分之一，更容易学习，并且可以在我们过去使用的测试一半不到的时间内完成管理和评分。"
+  },
+  {
+    "updated_label": "circular reasoning",
+    "source_article": "\"Running a marathon is very tiring because it is so exhausting.\"",
+    "source_article_nl": "Een marathon lopen is erg vermoeiend omdat het zo uitputtend is.",
+    "source_article_zh": "跑马拉松很累，因为它非常令人筋疲力尽。"
+  },
+  {
+    "updated_label": "ad hominem",
+    "source_article": "Look at that face! Would anyone vote for that? Can you imagine that as the face of our next president?",
+    "source_article_nl": "Kijk naar dat gezicht! Zou iemand daarop stemmen? Kun je je voorstellen dat dat het gezicht van onze volgende president is?",
+    "source_article_zh": "看看那张脸！有人会投票给那个吗？你能想象那是我们下一任总统的脸吗？"
+  },
+  {
+    "updated_label": "appeal to emotion",
+    "source_article": "They cannot take her to jail even if she did rob the bank and take millions of pesos… She is already too old and weak to be locked up.",
+    "source_article_nl": "Ze kunnen haar niet naar de gevangenis brengen, zelfs als ze de bank heeft beroofd en miljoenen pesos heeft meegenomen… Ze is al te oud en te zwak om opgesloten te worden.",
+    "source_article_zh": "即使她真的抢了银行并拿走了数百万比索，他们也不能把她送进监狱……她已经太老太虚弱了，不能被关起来。"
+  },
+  {
+    "updated_label": "faulty generalization",
+    "source_article": "Everyone knows that teenagers are lazy",
+    "source_article_nl": "Iedereen weet dat tieners lui zijn.",
+    "source_article_zh": "每个人都知道青少年很懒。"
+  },
+  {
+    "updated_label": "fallacy of relevance",
+    "source_article": "I'd also like you to consider the possibility that these people intend to attack both Mandela and myself. That doesn't mean I'm excluding the possibility that it really is Mandela these lunatics are after. I just want you to think critically about what you are doing. Pieter van Heerden was murdered. That means there are eyes and ears everywhere. Experience has taught me that red herrings are an important part of intelligence work. Do you follow me?",
+    "source_article_nl": "Ik wil ook dat u de mogelijkheid overweegt dat deze mensen zowel Mandela als mijzelf willen aanvallen. Dat betekent niet dat ik uitsluit dat het werkelijk Mandela is waar deze gekken achteraan zitten. Ik wil alleen dat u kritisch nadenkt over wat u doet. Pieter van Heerden is vermoord. Dat betekent dat er overal ogen en oren zijn. De ervaring heeft mij geleerd dat rode haringen een belangrijk onderdeel zijn van inlichtingenwerk. Begrijpt u mij?",
+    "source_article_zh": "我也希望您考虑一下，这些人可能意图攻击曼德拉和我本人。这并不排除这些疯子真正目标是曼德拉的可能性。我只是希望您批判性地思考自己所做之事。彼得·范·赫尔登被谋杀。这意味着到处都有眼睛和耳朵。经验告诉我，红鲱鱼是情报工作的重要组成部分。您明白我的意思吗？"
+  },
+  {
+    "updated_label": "fallacy of relevance",
+    "source_article": "I'm tailgating her, because she cut me off!",
+    "source_article_nl": "Ik rijd vlak achter haar aan, omdat ze me afsneed!",
+    "source_article_zh": "我跟她车跟得很近，因为她别了我一下！"
+  },
+  {
+    "updated_label": "false causality",
+    "source_article": " Doug is convinced he has lucky underwear. One time when he forgot to put on his lucky underwear, he got a parking ticket. Doug concludes that because he forgot to wear his lucky underwear, he got the ticket. Doug doesn't wash his lucky underwear often. This part isn't relevant to the example, but it is disturbing nonetheless.",
+    "source_article_nl": "Doug is ervan overtuigd dat hij een geluksonderbroek heeft. Een keer toen hij vergat zijn geluksonderbroek aan te doen, kreeg hij een parkeerbon. Doug concludeert dat hij de bon kreeg omdat hij vergat zijn geluksonderbroek aan te doen. Doug wast zijn geluksonderbroek niet vaak. Dit deel is niet relevant voor het voorbeeld, maar het is desondanks verontrustend.",
+    "source_article_zh": "道格坚信自己有一条幸运内裤。有一次他忘记穿幸运内裤，结果收到了一张停车罚单。道格得出结论，因为他忘记穿幸运内裤，所以才收到了罚单。道格不常洗他的幸运内裤。这部分与例子无关，但仍然令人不安。"
+  },
+  {
+    "updated_label": "circular reasoning",
+    "source_article": " Circular definition: a definition that is circular.\n",
+    "source_article_nl": "Circulaire definitie: een definitie die circulair is.",
+    "source_article_zh": "循环定义：一个循环的定义。"
+  },
+  {
+    "updated_label": "faulty generalization",
+    "source_article": "Asserting that if we allow \"A\" to happen, then \"Z\" will consequently happen too, therefore \"A\" should not happen.",
+    "source_article_nl": "Beweren dat als we \"A\" laten gebeuren, dan \"Z\" als gevolg ook zal gebeuren, dus \"A\" mag niet gebeuren.",
+    "source_article_zh": "断言如果我们允许“A”发生，那么“Z”也将会随之发生，因此“A”不应该发生。"
+  },
+  {
+    "updated_label": "fallacy of extension",
+    "source_article": "Senator Curry is against the new F-99 laser fighter. I’m for it because I don’t want to leave America defenseless.",
+    "source_article_nl": "Senator Curry is tegen de nieuwe F-99 laserjager. Ik ben ervoor omdat ik Amerika niet weerloos wil achterlaten.",
+    "source_article_zh": "参议员库里反对新型F-99激光战斗机。我支持它，因为我不想让美国毫无防备。"
+  },
+  {
+    "updated_label": "faulty generalization",
+    "source_article": "We have to stop the tuition increase! The next thing you know, they'll be charging $40,000 a semester!",
+    "source_article_nl": "We moeten de collegegeldverhoging stoppen! Straks rekenen ze nog $40.000 per semester!",
+    "source_article_zh": "我们必须阻止学费上涨！接下来你懂的，他们就会每学期收费4万美元！"
+  },
+  {
+    "updated_label": "ad hominem",
+    "source_article": "Brandon: We should have tastier lunches!\nJaylen: Don't listen to him! He's a terrible person! I saw him trip another student and steal his lunch money!",
+    "source_article_nl": "Brandon: We zouden lekkerdere lunches moeten hebben!\nJaylen: Luister niet naar hem! Hij is een vreselijk persoon! Ik zag hem een andere leerling laten struikelen en zijn lunchgeld stelen!",
+    "source_article_zh": "Brandon: 我们应该有更好吃的午餐！\nJaylen: 别听他的！他是个坏人！我看到他绊倒另一个学生并偷了他的午餐钱！"
+  },
+  {
+    "updated_label": "circular reasoning",
+    "source_article": "We know the virus started in a lab because it's too deadly to have just been the result of basic circumstance. But it hasn't been as deadly for China which proves that it's lab-made. Because it's deadly.",
+    "source_article_nl": "We weten dat het virus in een lab is ontstaan omdat het te dodelijk is om slechts het gevolg te zijn van gewone omstandigheden. Maar het is niet zo dodelijk geweest voor China, wat bewijst dat het in een lab is gemaakt. Omdat het dodelijk is.",
+    "source_article_zh": "我们知道病毒起源于实验室，因为它太致命了，不可能是基本自然条件的结果。但对中国来说它并不那么致命，这证明了它是实验室制造的。因为它致命。"
+  },
+  {
+    "updated_label": "appeal to emotion",
+    "source_article": "\"Jews are lice; They cause typhus (Painful/deadly disease).\"",
+    "source_article_nl": "Joden zijn luizen; Ze veroorzaken tyfus (pijnlijke/dodelijke ziekte).",
+    "source_article_zh": "犹太人是虱子；它们引起斑疹伤寒（痛苦/致命的疾病）。"
+  },
+  {
+    "updated_label": "fallacy of relevance",
+    "source_article": "\"We must legalize weed, it is tearing families apart.\" Response: \"But look at all those druggies getting arrested, they are obviously criminals.\"",
+    "source_article_nl": "\"We moeten wiet legaliseren, het verscheurt gezinnen.\" Reactie: \"Maar kijk naar al die junkies die gearresteerd worden, ze zijn duidelijk criminelen.\"",
+    "source_article_zh": "\"我们必须将大麻合法化，它正在撕裂家庭。\" 回应：\"但看看那些被抓的瘾君子，他们显然是罪犯。\""
+  },
+  {
+    "updated_label": "false dilemma",
+    "source_article": "\"Judge Danforth in the play, 'The Crucible,' offers Proctor two choice: you are either with this court or against it\" IS an example of this fallacy.",
+    "source_article_nl": "\"Rechter Danforth in het toneelstuk 'The Crucible' biedt Proctor twee keuze: je bent of met deze rechtbank of ertegen\" IS een voorbeeld van deze drogreden.",
+    "source_article_zh": "\"《萨勒姆的女巫》一剧中的丹福思法官向普罗克特提供了两个选择：你要么支持这个法庭，要么反对它\"这是这种谬误的一个例子。"
+  },
+  {
+    "updated_label": "intentional",
+    "source_article": "The makers of Sugarette Candy Drinks point to research showing that of the five countries where Sugarette drinks sell the most units, three of them are in the top ten healthiest countries on Earth, therefore Sugarette drinks are healthy.",
+    "source_article_nl": "De makers van Sugarette Candy Drinks wijzen op onderzoek dat aantoont dat van de vijf landen waar Sugarette-dranken de meeste eenheden verkopen, drie daarvan in de top tien van gezondste landen op aarde staan, dus zijn Sugarette-dranken gezond.",
+    "source_article_zh": "Sugarette Candy Drinks的制造商指出，研究显示，在Sugarette饮料销量最高的五个国家中，有三个位于全球最健康国家前十名，因此Sugarette饮料是健康的。"
+  },
+  {
+    "updated_label": "faulty generalization",
+    "source_article": "All chess players are geniuses.",
+    "source_article_nl": "Alle schaakspelers zijn genieën.",
+    "source_article_zh": "所有国际象棋选手都是天才。"
+  },
+  {
+    "updated_label": "fallacy of credibility",
+    "source_article": "The claim that because somebody famous supports an idea, the idea must be right. This fallacy is often used in advertising.",
+    "source_article_nl": "De bewering dat omdat een beroemd iemand een idee steunt, het idee juist moet zijn. Deze drogreden wordt vaak gebruikt in reclame.",
+    "source_article_zh": "声称因为某个名人支持某个想法，所以这个想法就是正确的。这种谬误经常用于广告中。"
+  },
+  {
+    "updated_label": "false dilemma",
+    "source_article": "”You can start a family early, or build financial stability for a better family life in the future.”",
+    "source_article_nl": "Je kunt vroeg een gezin stichten, of financiële stabiliteit opbouwen voor een beter gezinsleven in de toekomst.",
+    "source_article_zh": "你可以早日组建家庭，或者为未来更好的家庭生活建立财务稳定。"
+  },
+  {
+    "updated_label": "fallacy of extension",
+    "source_article": "SM 1: Second World War discussion",
+    "source_article_nl": "SM 1: Tweede Wereldoorlog discussie",
+    "source_article_zh": "SM 1: 第二次世界大战讨论"
+  },
+  {
+    "updated_label": "false causality",
+    "source_article": "It’s cold on a summer day. Global warming is a hoax.",
+    "source_article_nl": "Het is koud op een zomerdag. Opwarming van de aarde is een hoax.",
+    "source_article_zh": "夏天天气很冷。全球变暖是一个骗局。"
+  },
+  {
+    "updated_label": "faulty generalization",
+    "source_article": "Mrs. Miller taught your older brother, who was the class clown. She decides to be strict with you from the very first day of class because she thinks you will be a clown, too.",
+    "source_article_nl": "Mevrouw Miller heeft jouw oudere broer lesgegeven, die de klasseclown was. Ze besluit vanaf de allereerste dag van de les streng voor jou te zijn, omdat ze denkt dat jij ook een clown zult zijn.",
+    "source_article_zh": "米勒夫人教过你的哥哥，他是班上的小丑。她决定从上课第一天起就对你严格要求，因为她认为你也会是个小丑。"
+  },
+  {
+    "updated_label": "fallacy of extension",
+    "source_article": "Charlie: Illegal posting and sharing of songs online are crippling the music industry.\nBob: You couldn’t be more wrong; the music industry is doing just fine. I can’t believe you think the government should be allowed to regulate what I share with my “friends.” No one wants a world where I can’t loan a book to my girlfriend, let my roommate borrow my iPod, or share a funny meme with my blog followers.",
+    "source_article_nl": "Charlie: Illegaal plaatsen en delen van nummers online verlammen de muziekindustrie.  \nBob: Je kunt niet meer ongelijk hebben; de muziekindustrie doet het prima. Ik kan niet geloven dat jij denkt dat de overheid mag bepalen wat ik deel met mijn \"vrienden.\" Niemand wil een wereld waarin ik geen boek aan mijn vriendin kan lenen, mijn huisgenoot mijn iPod kan laten gebruiken, of een grappige meme kan delen met mijn blogvolgers.",
+    "source_article_zh": "Charlie：非法发布和在线分享歌曲正在严重损害音乐产业。  \nBob：你大错特错；音乐产业现在发展得很好。我无法相信你竟然认为政府应该有权监管我和我的“朋友们”分享的内容。没有人想要一个连借本书给我女朋友、让室友用我的iPod、或者把搞笑表情包分享给我的博客粉丝都不行的世界。"
+  },
+  {
+    "updated_label": "circular reasoning",
+    "source_article": "The Bible is true because God exists, and God exists because the Bible says so.",
+    "source_article_nl": "De Bijbel is waar omdat God bestaat, en God bestaat omdat de Bijbel dat zegt.",
+    "source_article_zh": "圣经是真的，因为上帝存在，而上帝存在是因为圣经这么说。"
+  },
+  {
+    "updated_label": "ad populum",
+    "source_article": "Up until the late 16th century, most people believed that the earth was the center of the universe.  This was seen as enough of a reason back then to accept this as true.",
+    "source_article_nl": "Tot aan het einde van de 16e eeuw geloofden de meeste mensen dat de aarde het centrum van het universum was. Dit werd toen gezien als voldoende reden om dit als waarheid te aanvaarden.",
+    "source_article_zh": "直到16世纪末，大多数人都相信地球是宇宙的中心。这在当时被认为是足够接受其为真实的理由。"
+  },
+  {
+    "updated_label": "fallacy of extension",
+    "source_article": "Mr. Stark's idea for implementing affirmative action in the university's admission process is complete folly. He say's he wants the student body to represent diversity in the community. But that's ridiculous. I suppose this means we'll have to throw out our academic standards while were at it. After all, if we're going to let students into our prestigious institution just because of their gender or the color of their skin, then what's going to happen to our reputation?\n\nIdentify the logical fallacy commited in this argument.",
+    "source_article_nl": "Het idee van meneer Stark om positieve discriminatie in te voeren bij het toelatingsproces van de universiteit is complete dwaasheid. Hij zegt dat hij wil dat de studentenpopulatie de diversiteit in de gemeenschap vertegenwoordigt. Maar dat is belachelijk. Ik neem aan dat dit betekent dat we onze academische normen overboord moeten gooien terwijl we bezig zijn. Immers, als we studenten tot onze prestigieuze instelling toelaten alleen vanwege hun geslacht of de kleur van hun huid, wat gebeurt er dan met onze reputatie?",
+    "source_article_zh": "斯塔克先生关于在大学招生中实施平权行动的想法完全是愚蠢的。他说他希望学生群体能代表社区的多样性。但这太荒谬了。我猜这就意味着我们得把学术标准也扔到一边去吧。毕竟，如果我们仅仅因为学生的性别或肤色就把他们招进我们这所名校，那我们的声誉会变成什么样呢？\n\nThe logical fallacy committed is a straw man argument (misrepresenting affirmative action as solely based on gender/race without considering qualifications) combined with a slippery slope fallacy (implying that implementing affirmative action will necessarily lead to abandoning all academic standards)."
+  },
+  {
+    "updated_label": "circular reasoning",
+    "source_article": "we can't have the public option, because if we do, health care reform won't get the votes of senators like him.",
+    "source_article_nl": "We kunnen de publieke optie niet hebben, want als we die wel hebben, krijgt de hervorming van de gezondheidszorg niet de stemmen van senatoren zoals hij.",
+    "source_article_zh": "我们不能有公共选项，因为如果有的话，医疗改革将无法获得像他这样的参议员的支持。"
+  },
+  {
+    "updated_label": "fallacy of logic",
+    "source_article": "Bears are a subset of omnivores. Raccoons also are a subset of omnivores. But these two subsets do not overlap, and that fact makes the conclusion illogical. The argument is invalid—that is, the relationship between the premises doesn’t support the conclusion.",
+    "source_article_nl": "Beren zijn een deelverzameling van omnivoren. Wasberen zijn ook een deelverzameling van omnivoren. Maar deze twee deelverzamelingen overlappen elkaar niet, en dat feit maakt de conclusie onlogisch. Het argument is ongeldig – dat wil zeggen, de relatie tussen de premissen ondersteunt de conclusie niet.",
+    "source_article_zh": "熊是杂食动物的一个子集。浣熊也是杂食动物的一个子集。但这两个子集并不重叠，这一事实使得结论不合逻辑。这个论证是无效的——也就是说，前提之间的关系不支持结论。"
+  },
+  {
+    "updated_label": "faulty generalization",
+    "source_article": "I know three redheads who have terrible tempers, and since Annabel has red hair, I’ll bet she has a terrible temper, too.",
+    "source_article_nl": "Ik ken drie roodharigen die vreselijke humeuren hebben, en aangezien Annabel rood haar heeft, wed ik dat zij ook een vreselijk humeur heeft.",
+    "source_article_zh": "我认识三个红头发的人，他们的脾气都很糟糕，既然安娜贝尔是红头发，我敢打赌她的脾气也很糟糕。"
+  },
+  {
+    "updated_label": "fallacy of extension",
+    "source_article": "Ted: Biological evolution is both a theory and a fact.\n\nEdwin: That is ridiculous! How can you possibly be absolutely certain that we evolved from pond scum!\n\nTed: Actually, that is a gross misrepresentation of my assertion. I never claimed we evolved from pond scum.",
+    "source_article_nl": "Ted: Biologische evolutie is zowel een theorie als een feit.\n\nEdwin: Dat is belachelijk! Hoe kun je er in hemelsnaam absoluut zeker van zijn dat we uit vijverslijm zijn geëvolueerd!\n\nTed: Eigenlijk is dat een grove misrepresentatie van mijn stelling. Ik heb nooit beweerd dat we uit vijverslijm zijn geëvolueerd.",
+    "source_article_zh": "Ted: 生物进化既是一种理论，也是一个事实。\n\nEdwin: 这太荒谬了！你怎么可能绝对确定我们是从池塘浮渣进化而来的！\n\nTed: 实际上，这是对我主张的严重歪曲。我从未声称我们是从池塘浮渣进化而来的。"
+  },
+  {
+    "updated_label": "appeal to emotion",
+    "source_article": "Professor, you have to give me an A on this paper. I know I only turned in a sentence and some clip art, but you have to understand, my grandmother suddenly died while traveling in the Northern Yukon, and her funeral was there so I had to travel, and my parents got divorced in the middle of the ceremony, and all the stress caused me to become catatonic for two weeks. Have some pity — my grandmother's last wish was that I'd get an A in this class.",
+    "source_article_nl": "Professor, u moet mij een A geven voor dit werkstuk. Ik weet dat ik slechts een zin en wat clipart heb ingeleverd, maar u moet begrijpen, mijn grootmoeder is plotseling overleden tijdens een reis in het noorden van Yukon, en haar begrafenis was daar dus ik moest reizen, en mijn ouders zijn midden in de ceremonie gescheiden, en alle stress zorgde ervoor dat ik twee weken catatonisch was. Heb medelijden — de laatste wens van mijn grootmoeder was dat ik een A zou halen in deze klas.",
+    "source_article_zh": "教授，您必须给我这个论文一个A。我知道我只交了一句话和一些剪贴画，但您要理解，我的祖母突然在育空北部旅行时去世了，她的葬礼在那里，所以我不得不去旅行，我的父母在仪式中间离婚了，所有的压力导致我昏迷了两周。请可怜可怜我吧——我祖母的最后一个愿望就是我在您这门课上拿到A。"
+  },
+  {
+    "updated_label": "faulty generalization",
+    "source_article": "Women can't do as good a job as men.",
+    "source_article_nl": "Vrouwen kunnen niet zo'n goede baan doen als mannen.",
+    "source_article_zh": "女人不能像男人一样做好工作。"
+  },
+  {
+    "updated_label": "equivocation",
+    "source_article": "It is immoral to kill an innocent human being.  Fetuses are innocent human  beings.  Therefore, it is immoral to kill fetuses.",
+    "source_article_nl": "Het is immoreel om een onschuldig mens te doden. Foetussen zijn onschuldige mensen. Daarom is het immoreel om foetussen te doden.",
+    "source_article_zh": "杀害无辜的人是不道德的。胎儿是无辜的人。因此，杀害胎儿是不道德的。"
+  },
+  {
+    "updated_label": "false dilemma",
+    "source_article": "Either you believe what I’m saying, or you must believe exactly the opposite.",
+    "source_article_nl": "Of je gelooft wat ik zeg, of je moet precies het tegenovergestelde geloven.",
+    "source_article_zh": "要么你相信我说的，要么你必须相信完全相反的东西。"
+  },
+  {
+    "updated_label": "false causality",
+    "source_article": "Eighty-five percent of those surveyed said that it is important to have a cell phone.",
+    "source_article_nl": "Vijfentachtig procent van de ondervraagden zei dat het belangrijk is om een mobiele telefoon te hebben.",
+    "source_article_zh": "百分之八十五的受访者表示，拥有一部手机很重要。"
+  },
+  {
+    "updated_label": "appeal to emotion",
+    "source_article": "“All those opposed to my arguments for the opening of a new department, signify by saying, ‘I quit.’\"",
+    "source_article_nl": "\"Allen die tegen mijn argumenten voor het openen van een nieuwe afdeling zijn, geef dat te kennen door te zeggen: 'Ik stop ermee.'\"",
+    "source_article_zh": "\"所有反对我关于开设新部门的论点的人，请通过说‘我辞职’来表示。\""
+  },
+  {
+    "updated_label": "ad hominem",
+    "source_article": "Dad drank at parties, too",
+    "source_article_nl": "Vader dronk ook op feestjes.",
+    "source_article_zh": "爸爸也曾在派对上喝酒。"
+  },
+  {
+    "updated_label": "faulty generalization",
+    "source_article": "Jeff is preparing to create a commercial for a new energy drink. He visits a local high school and surveys students in an English class about their beverage preferences. The majority of the class says they prefer grape flavored drinks, so Jeff tells his superiors that grape is the flavor favored most by high school students. What error in reasoning has Jeff made?",
+    "source_article_nl": "Jeff bereidt zich voor om een commercial te maken voor een nieuwe energiedrank. Hij bezoekt een plaatselijke middelbare school en enquêteert studenten in een Engelse les over hun drankvoorkeuren. De meerderheid van de klas zegt dat ze de voorkeur geven aan druivensmaakdranken, dus vertelt Jeff aan zijn superieuren dat druif de smaak is die het meest geliefd is bij middelbare scholieren. Welke redeneerfout heeft Jeff gemaakt?",
+    "source_article_zh": "Jeff正在准备为一种新的能量饮料制作广告。他走访了一所当地的高中，在一个英语课上调查学生对饮料的偏好。班上的大多数学生说他们更喜欢葡萄味的饮料，所以Jeff告诉他的上级，葡萄是高中生最喜欢的口味。Jeff犯了什么推理错误？"
+  },
+  {
+    "updated_label": "fallacy of credibility",
+    "source_article": "We are not weak if we make a proper use of those means which the God of nature hath placed in our power.",
+    "source_article_nl": "Wij zijn niet zwak als wij een goed gebruik maken van die middelen die de God van de natuur in onze macht heeft geplaatst.",
+    "source_article_zh": "如果我们妥善利用自然之神置于我们力量之中的那些手段，我们就并不软弱。"
+  },
+  {
+    "updated_label": "ad populum",
+    "source_article": "Throughout history, most philosophers thought men were more rational than women, therefore this is true.",
+    "source_article_nl": "Door de geschiedenis heen dachten de meeste filosofen dat mannen rationeler waren dan vrouwen, dus dit is waar.",
+    "source_article_zh": "纵观历史，大多数哲学家认为男性比女性更理性，因此这是正确的。"
+  },
+  {
+    "updated_label": "faulty generalization",
+    "source_article": "Do most Americans believe in God? To find out, we asked over 10,000 scientists at colleges and universities throughout America. Less than 40 percent said they believed in God. The conclusion is obvious: Most Americans no longer believe in God.",
+    "source_article_nl": "Geloven de meeste Amerikanen in God? Om daarachter te komen, hebben we meer dan 10.000 wetenschappers aan hogescholen en universiteiten in heel Amerika gevraagd. Minder dan 40 procent zei dat ze in God geloven. De conclusie is duidelijk: De meeste Amerikanen geloven niet langer in God.",
+    "source_article_zh": "大多数美国人相信上帝吗？为了找出答案，我们询问了美国各地学院和大学的超过一万名科学家。不到40%的人说他们相信上帝。结论显而易见：大多数美国人不再相信上帝。"
+  },
+  {
+    "updated_label": "fallacy of extension",
+    "source_article": "This fallacy attacks a position the opponent doesn’t really hold.",
+    "source_article_nl": "Deze drogreden valt een standpunt aan dat de tegenstander niet werkelijk inneemt.",
+    "source_article_zh": "这种谬误攻击了对手并未真正持有的立场。"
+  },
+  {
+    "updated_label": "faulty generalization",
+    "source_article": "Conclude that because A happens then B, C, D, E, F, G, H, I, J, K, L… will inevitably happen.",
+    "source_article_nl": "Concludeer dat omdat A gebeurt, dan B, C, D, E, F, G, H, I, J, K, L… onvermijdelijk zullen gebeuren.",
+    "source_article_zh": "得出结论，因为A发生，那么B、C、D、E、F、G、H、I、J、K、L……将不可避免地发生。"
+  },
+  {
+    "updated_label": "false causality",
+    "source_article": "Our house was burglarized right after that new family moved in next door. Therefore, that new family must have been involved.",
+    "source_article_nl": "Ons huis werd ingebroken vlak nadat dat nieuwe gezin naast ons kwam wonen. Daarom moet dat nieuwe gezin erbij betrokken zijn geweest.",
+    "source_article_zh": "我们的房子在隔壁新搬来那户人家之后不久就被入室盗窃了。因此，那户新搬来的人家肯定脱不了干系。"
+  },
+  {
+    "updated_label": "faulty generalization",
+    "source_article": "Passing federal laws to control the amount of violence in music is the first step in a process that will result in absolute government control of the media and total censorship over all forms of artistic expression.",
+    "source_article_nl": "Het aannemen van federale wetten om de hoeveelheid geweld in muziek te reguleren is de eerste stap in een proces dat zal resulteren in absolute overheidscontrole over de media en volledige censuur over alle vormen van artistieke expressie.",
+    "source_article_zh": "通过联邦法律来控制音乐中的暴力程度，是迈向最终导致政府对媒体的绝对控制以及对所有艺术表达形式实施全面审查的第一步。"
+  },
+  {
+    "updated_label": "ad hominem",
+    "source_article": "Speaker 1: No fault divorce has proven to be detrimental to society and the family.\r\nSpeaker 2: You didn’t seem to think that when you got divorced.",
+    "source_article_nl": "Spreker 1: Echtscheiding zonder schuld is schadelijk gebleken voor de maatschappij en het gezin.\nSpreker 2: Dat leek je niet te vinden toen je zelf scheidde.",
+    "source_article_zh": "说话者1：无过错离婚已被证明对社会和家庭有害。\n说话者2：你自己离婚的时候似乎并不这么认为。"
+  },
+  {
+    "updated_label": "ad hominem",
+    "source_article": "I cannot listen to anyone who does not share my social and political values.",
+    "source_article_nl": "Ik kan niet luisteren naar iemand die mijn sociale en politieke waarden niet deelt.",
+    "source_article_zh": "我不能听任何不分享我的社会和政治价值观的人。"
+  },
+  {
+    "updated_label": "ad hominem",
+    "source_article": "When the arguer is attacked vs. the argument that is attacked, this is an example of:",
+    "source_article_nl": "Wanneer de argumenteerder wordt aangevallen versus het argument dat wordt aangevallen, is dit een voorbeeld van:",
+    "source_article_zh": "当攻击的是论证者而非论证本身时，这是一个例子："
+  },
+  {
+    "updated_label": "faulty generalization",
+    "source_article": "Daniel was a precocious child and had a liking for logic. He reasoned that atoms are invisible, and that he was made of atoms and therefore invisible too. Unfortunately, despite his thinky skills, he lost the game of hide and go seek.",
+    "source_article_nl": "Daniel was een vroegrijp kind en had een voorliefde voor logica. Hij redeneerde dat atomen onzichtbaar zijn, en dat hij uit atomen bestond en dus ook onzichtbaar was. Helaas, ondanks zijn denkvaardigheden, verloor hij het spel verstoppertje.",
+    "source_article_zh": "丹尼尔是个早慧的孩子，对逻辑学情有独钟。他推理道：原子是不可见的，而他自己由原子构成，因此他也是不可见的。可惜，尽管他智力超群，还是在捉迷藏游戏中输了。"
+  },
+  {
+    "updated_label": "faulty generalization",
+    "source_article": "The meteorologist predicted the wrong amount of rain for May. Obviously, the meteorologist is unreliable.",
+    "source_article_nl": "De meteoroloog voorspelde de verkeerde hoeveelheid regen voor mei. Uiteraard is de meteoroloog onbetrouwbaar.",
+    "source_article_zh": "气象学家预测了五月的降雨量错误。显然，这位气象学家是不可靠的。"
+  },
+  {
+    "updated_label": "ad hominem",
+    "source_article": "Oh, please. What do you know about labor laws? You don't even have a job.",
+    "source_article_nl": "Oh, alsjeblieft. Wat weet jij over arbeidswetten? Je hebt niet eens een baan.",
+    "source_article_zh": "哦，拜托。你对劳动法了解多少？你连个工作都没有。"
+  },
+  {
+    "updated_label": "ad populum",
+    "source_article": "You appealed to popularity or the fact that many people do something as an attempted form of validation.",
+    "source_article_nl": "Je deed een beroep op populariteit of het feit dat veel mensen iets doen als een poging tot validatie.",
+    "source_article_zh": "你诉诸于流行或许多人做某事的事实，以此作为一种试图验证的方式。"
+  },
+  {
+    "updated_label": "faulty generalization",
+    "source_article": "Wife: Should we buy the house?\nHusband: The Realtor didn’t say anything about any problems, so I am sure it is fine. Let’s get it!\n",
+    "source_article_nl": "Vrouw: Moeten we het huis kopen?\nMan: De makelaar heeft niets gezegd over problemen, dus ik weet zeker dat het in orde is. Laten we het kopen!",
+    "source_article_zh": "妻子：我们应该买这栋房子吗？\n丈夫：中介没有说任何问题，所以我确定它没问题。我们买吧！"
+  },
+  {
+    "updated_label": "ad populum",
+    "source_article": "Over one million students have purchased Brain Power.",
+    "source_article_nl": "Meer dan een miljoen studenten hebben Brain Power gekocht.",
+    "source_article_zh": "超过一百万名学生购买了Brain Power。"
+  },
+  {
+    "updated_label": "ad hominem",
+    "source_article": "Speaker 1 (Democrat): “Donald Trump is a known adulterer. It reflects badly on his character, and suggests he might not be trustworthy.”\r\nSpeaker 2 (Republican): “What about Bill Clinton? You didn’t seem to care when he cheated.”",
+    "source_article_nl": "Spreker 1 (Democraat): “Donald Trump is een bekende overspelige. Het weerspiegelt slecht op zijn karakter en suggereert dat hij mogelijk niet betrouwbaar is.”\nSpreker 2 (Republikein): “En wat dan met Bill Clinton? Jij leek je er niet om te bekommeren toen hij vreemdging.”",
+    "source_article_zh": "发言人1（民主党）：“唐纳德·特朗普是一个众所周知的通奸者。这反映了他的品格不佳，暗示他可能不值得信任。”\n发言人2（共和党）：“那比尔·克林顿呢？他出轨时你似乎并不在意。”"
+  },
+  {
+    "updated_label": "circular reasoning",
+    "source_article": "The word of Zorbo the Great is flawless and perfect. We know this because it says so in The Great and Infallible Book of Zorbo's Best and Most Truest Things that are Definitely True and Should Not Ever Be Questioned.",
+    "source_article_nl": "Het woord van Zorbo de Grote is onberispelijk en perfect. We weten dit omdat het zo staat in Het Grote en Onfeilbare Boek van Zorbo's Beste en Meest Ware Dingen die Zeker Waar Zijn en Nooit in Twijfel Getrokken Mogen Worden.",
+    "source_article_zh": "伟大的佐尔博之言是无瑕且完美的。我们知道这一点，因为它在《伟大且无误的佐尔博之最佳且最真实之事之书，这些事绝对真实且永远不应被质疑》中是这样说的。"
+  },
+  {
+    "updated_label": "ad populum",
+    "source_article": "An influencer posts on Instagram that the restaurant \"EP is poppin'! Everyone worth knowing is here tonight - come on down!\" -- this is an example of:",
+    "source_article_nl": "Een influencer plaatst op Instagram dat het restaurant \"EP is poppin'! Iedereen die ertoe doet is hier vanavond - kom snel!\" -- dit is een voorbeeld van:",
+    "source_article_zh": "一位网红在Instagram上发帖说，餐厅“EP火爆了！今晚所有值得认识的人都在这里——快来吧！”——这是一个例子："
+  },
+  {
+    "updated_label": "fallacy of extension",
+    "source_article": "Senator Smith says we should cut back the Defense budget. His position is that we should let down our defenses and just trust our enemies not to attack us!",
+    "source_article_nl": "Senator Smith zegt dat we het defensiebudget moeten verlagen. Zijn standpunt is dat we onze verdediging moeten laten verslappen en gewoon moeten vertrouwen dat onze vijanden ons niet zullen aanvallen!",
+    "source_article_zh": "史密斯参议员说我们应该削减国防预算。他的立场是，我们应该放松防御，只是相信我们的敌人不会攻击我们！"
+  },
+  {
+    "updated_label": "ad populum",
+    "source_article": "Going to prom (when you don't want to) because 90 percent of your classmates are going",
+    "source_article_nl": "Naar het schoolbal gaan (wanneer je niet wilt) omdat 90 procent van je klasgenoten gaan.",
+    "source_article_zh": "去参加舞会（当你不想去的时候）因为90%的同学都去。"
+  },
+  {
+    "updated_label": "faulty generalization",
+    "source_article": "While jogging around the neighborhood, you are more likely to get bitten by someone’s pet dog, than by any member of the canine species.",
+    "source_article_nl": "Tijdens het joggen in de buurt is de kans groter dat je gebeten wordt door iemands huisdierhond dan door enig lid van de hondachtigen.",
+    "source_article_zh": "在社区里慢跑时，你更有可能被某人的宠物狗咬伤，而不是被犬科动物的任何成员咬伤。"
+  },
+  {
+    "updated_label": "circular reasoning",
+    "source_article": "“It’s important to argue logically because logic is an essential part of argumentation.”",
+    "source_article_nl": "Het is belangrijk om logisch te argumenteren, omdat logica een essentieel onderdeel is van argumentatie.",
+    "source_article_zh": "以逻辑方式进行论证很重要，因为逻辑是论证的重要组成部分。"
+  }
+]

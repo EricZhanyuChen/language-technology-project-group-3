@@ -1,0 +1,31 @@
+### model
+model_name_or_path: google/gemma-4-31B-it
+adapter_name_or_path: /scratch/s6398820/LT_project/lora_results/gemma4-31b-orig
+
+### method
+stage: sft
+do_train: false
+do_predict: true
+predict_with_generate: true
+finetuning_type: lora
+
+### dataset
+dataset_dir: logic_data/augmented
+dataset: fallacy_test_zh
+template: gemma4
+cutoff_len: 1024
+overwrite_cache: true
+preprocessing_num_workers: 4
+enable_thinking: false
+
+### output
+output_dir: /scratch/s6398820/LT_project/lora_results/gemma4-31b-orig_zh
+overwrite_output_dir: true
+
+### predict
+eval_dataset: fallacy_test_zh
+per_device_eval_batch_size: 4
+
+### misc
+seed: 42
+report_to: none
