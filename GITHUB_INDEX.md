@@ -1,6 +1,6 @@
 # GitHub Upload Index
 
-> Generated: 2026-06-09
+> Generated: 2026-06-16
 > Exclusions based on `.gitignore`: `lt_env/`, `lora_results/`, `scripts/slurm/`, `memory/`, `AGENTS.md`, `presentation1/`, `presentation2/`, `paper/`, `results/logs/`
 
 ---
@@ -106,12 +106,13 @@
 | scripts/yaml/exp004.yaml | Gemma4 + augmented data (label-only) |
 | scripts/yaml/ablation_gemma4_orig.yaml | Gemma4 + original data (ablation) |
 | scripts/yaml/ablation_gemma4_orig_r8.yaml | Gemma4 + original data r=8 |
-| scripts/yaml/exp006_gemma4_cot.yaml | Gemma4 CoT distillation |
+| scripts/yaml/exp006_gemma4_cot.yaml | Gemma4 CoT fine-tuning |
 | scripts/yaml/multilingual_gemma4.yaml | Gemma4 multilingual training |
 | scripts/yaml/multi_balanced_gemma4.yaml | Gemma4 multilingual balanced training |
 | scripts/yaml/targeted_aug.yaml | Gemma4 targeted augmentation |
 | scripts/yaml/orig_dist_aug.yaml | Gemma4 augmented data with original distribution |
 | scripts/yaml/eval_gemma4_orig_en.yaml | Gemma4 eval config |
+| scripts/yaml/eval_gemma4_cot_thinking.yaml | Gemma4 CoT eval (enable_thinking=true) |
 
 ### Qwen 3.5-27B
 
@@ -121,9 +122,10 @@
 | scripts/yaml/exp005b_qwen3.5-27b-aug.yaml | Qwen 27B augmented data |
 | scripts/yaml/exp005b_qwen3.5-27b-reasoning.yaml | Qwen 27B thinking mode (DISCARDED) |
 | scripts/yaml/ablation_qwen_orig.yaml | Qwen 27B + original data (ablation) |
-| scripts/yaml/exp006_qwen3.5_cot.yaml | Qwen 27B CoT distillation |
+| scripts/yaml/exp006_qwen3.5_cot.yaml | Qwen 27B CoT fine-tuning |
 | scripts/yaml/multilingual_qwen3.5.yaml | Qwen 27B multilingual training |
 | scripts/yaml/eval_qwen27b_orig_en.yaml | Qwen 27B eval config |
+| scripts/yaml/eval_qwen27b_cot_thinking.yaml | Qwen 27B CoT eval (enable_thinking=true) |
 
 ### Qwen 3.5-9B
 
